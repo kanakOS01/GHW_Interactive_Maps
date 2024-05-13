@@ -1,0 +1,255 @@
+[
+  {
+    "id": 1,
+    "state": "Andhra Pradesh",
+    "capital": "Amaravati",
+    "lat": 16.30,
+    "long": 80.42
+  },
+  {
+    "id": 2,
+    "state": "Arunachal Pradesh",
+    "capital": "Itanagar",
+    "lat": 27.1,
+    "long": 93.37
+  },
+  {
+    "id": 3,
+    "state": "Assam",
+    "capital": "Dispur",
+    "lat": 26.08,
+    "long": 91.39
+  },
+  {
+    "id": 4,
+    "state": "Bihar",
+    "capital": "Patna",
+    "lat": 25.23,
+    "long": 85.13
+  },
+  {
+    "id": 5,
+    "state": "Chhattisgarh",
+    "capital": "Raipur",
+    "lat": 21.27,
+    "long": 81.86
+  },
+  {
+    "id": 6,
+    "state": "Goa",
+    "capital": "Panaji",
+    "lat": 15.29,
+    "long": 73.81
+  },
+  {
+    "id": 7,
+    "state": "Gujarat",
+    "capital": "Gandhinagar",
+    "lat": 23.22,
+    "long": 72.64
+  },
+  {
+    "id": 8,
+    "state": "Haryana",
+    "capital": "Chandigarh",
+    "lat": 30.73,
+    "long": 76.78
+  },
+  {
+    "id": 9,
+    "state": "Himachal Pradesh",
+    "capital": "Shimla",
+    "lat": 31.10,
+    "long": 77.17
+  },
+  {
+    "id": 10,
+    "state": "Jharkhand",
+    "capital": "Ranchi",
+    "lat": 23.36,
+    "long": 85.33
+  },
+  {
+    "id": 11,
+    "state": "Karnataka",
+    "capital": "Bengaluru",
+    "lat": 12.97,
+    "long": 77.59
+  },
+  {
+    "id": 12,
+    "state": "Kerala",
+    "capital": "Thiruvananthapuram",
+    "lat": 8.52,
+    "long": 76.95
+  },
+  {
+    "id": 13,
+    "state": "Madhya Pradesh",
+    "capital": "Bhopal",
+    "lat": 23.25,
+    "long": 77.41
+  },
+  {
+    "id": 14,
+    "state": "Maharashtra",
+    "capital": "Mumbai",
+    "lat": 19.07,
+    "long": 72.87
+  },
+  {
+    "id": 15,
+    "state": "Manipur",
+    "capital": "Imphal",
+    "lat": 24.82,
+    "long": 93.95
+  },
+  {
+    "id": 16,
+    "state": "Meghalaya",
+    "capital": "Shillong",
+    "lat": 25.57,
+    "long": 91.88
+  },
+  {
+    "id": 17,
+    "state": "Mizoram",
+    "capital": "Aizawl",
+    "lat": 23.73,
+    "long": 92.71
+  },
+  {
+    "id": 18,
+    "state": "Nagaland",
+    "capital": "Kohima",
+    "lat": 25.67,
+    "long": 94.11
+  },
+  {
+    "id": 19,
+    "state": "Odisha",
+    "capital": "Bhubaneswar",
+    "lat": 20.29,
+    "long": 85.84
+  },
+  {
+    "id": 20,
+    "state": "Punjab",
+    "capital": "Chandigarh",
+    "lat": 30.73,
+    "long": 76.78
+  },
+  {
+    "id": 21,
+    "state": "Rajasthan",
+    "capital": "Jaipur",
+    "lat": 26.92,
+    "long": 75.82
+  },
+  {
+    "id": 22,
+    "state": "Sikkim",
+    "capital": "Gangtok",
+    "lat": 27.33,
+    "long": 88.61
+  },
+  {
+    "id": 23,
+    "state": "Tamil Nadu",
+    "capital": "Chennai",
+    "lat": 13.08,
+    "long": 80.27
+  },
+  {
+    "id": 24,
+    "state": "Telangana",
+    "capital": "Hyderabad",
+    "lat": 17.38,
+    "long": 78.47
+  },
+  {
+    "id": 25,
+    "state": "Tripura",
+    "capital": "Agartala",
+    "lat": 23.83,
+    "long": 91.27
+  },
+  {
+    "id": 26,
+    "state": "Uttar Pradesh",
+    "capital": "Lucknow",
+    "lat": 26.85,
+    "long": 80.91
+  },
+  {
+    "id": 27,
+    "state": "Uttarakhand",
+    "capital": "Dehradun",
+    "lat": 30.32,
+    "long": 78.03
+  },
+  {
+    "id": 28,
+    "state": "West Bengal",
+    "capital": "Kolkata",
+    "lat": 22.57,
+    "long": 88.36
+  },
+  {
+    "id": 29,
+    "state": "Andaman and Nicobar Islands",
+    "capital": "Port Blair",
+    "lat": 11.68,
+    "long": 92.76
+  },
+  {
+    "id": 30,
+    "state": "Chandigarh",
+    "capital": "Chandigarh",
+    "lat": 30.73,
+    "long": 76.78
+  },
+  {
+    "id": 31,
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "capital": "Daman",
+    "lat": 20.42,
+    "long": 72.85
+  },
+  {
+    "id": 32,
+    "state": "Jammu and Kashmir",
+    "capital": "Srinagar",
+    "lat": 34.08,
+    "long": 74.81
+  },
+
+  {
+    "id": 33,
+    "state": "Ladakh",
+    "capital": "Leh",
+    "lat": 34.15,
+    "long": 77.57
+  },
+  {
+    "id": 34,
+    "state": "Lakshadweep",
+    "capital": "Kavaratti",
+    "lat": 10.57,
+    "long": 72.64
+  },
+  {
+    "id": 35,
+    "state": "Delhi",
+    "capital": "New Delhi",
+    "lat": 28.61,
+    "long": 77.23
+  },
+  {
+    "id": 36,
+    "state": "Puducherry",
+    "capital": "Pondicherry",
+    "lat": 11.94,
+    "long": 79.83
+  }
+]

@@ -1,0 +1,1001 @@
+Ranking,Company,Market Cap (USD),Stock,Country,Sector,Industry
+1,Apple Inc.,$2.866 T,AAPL,United States,Technology,Consumer Electronics
+2,Microsoft Corporation,$2.755 T,MSFT,United States,Technology,Software—Infrastructure
+3,Saudi Arabian Oil Company,$2.132 T,2222,Saudi Arabia,Energy,Oil & Gas Integrated
+4,Alphabet Inc.,$1.746 T,GOOG,United States,Communication Services,Internet Content & Information
+5,"Amazon.com, Inc.",$1.534 T,AMZN,United States,Consumer Discretionary,Internet Retail
+6,Nvidia Corporation,$1.186 T,NVDA,United States,Technology,Semiconductors
+7,"Meta Platforms, Inc.",$884.87 B,META,United States,Communication Services,Internet Content & Information
+8,Berkshire Hathaway Inc.,$797.77 B,BRK.B,United States,Financials,Financial Conglomerates
+9,"Tesla, Inc.",$758.09 B,TSLA,United States,Consumer Discretionary,Auto Manufacturers
+10,Eli Lilly and Company,$586.39 B,LLY,United States,Healthcare,Drug Manufacturers—General
+11,Visa Inc.,$530.20 B,V,United States,Financials,Credit Services
+12,UnitedHealth Group Incorporated,$504.47 B,UNH,United States,Healthcare,Healthcare Plans
+13,Broadcom Inc.,$495.95 B,AVGO,United States,Technology,Semiconductors
+14,JPMorgan Chase & Co.,$495.55 B,JPM,United States,Financials,Banks—Diversified
+15,Taiwan Semiconductor Manufacturing Company Limited,$487.64 B,2330,Taiwan,Technology,Semiconductors
+16,Novo Nordisk A/S,$461.52 B,NOVO.B,Denmark,Healthcare,Biotechnology
+17,Walmart Inc.,$428.87 B,WMT,United States,Consumer Staples,Discount Stores
+18,Exxon Mobil Corporation,$412.55 B,XOM,United States,Energy,Oil & Gas Integrated
+19,"LVMH Moët Hennessy - Louis Vuitton, SE",$397.47 B,MC,France,Consumer Discretionary,Luxury Goods
+20,Mastercard Incorporated,$392.71 B,MA,United States,Financials,Credit Services
+21,"Samsung Electronics Co., Ltd.",$392.38 B,005930,South Korea,Technology,Consumer Electronics
+22,Johnson & Johnson,$387.50 B,JNJ,United States,Healthcare,Drug Manufacturers—General
+23,Tencent Holdings Ltd,$353.93 B,0700,China,Communication Services,Internet Content & Information
+24,The Procter & Gamble Company,$350.35 B,PG,United States,Consumer Staples,Household & Personal Products
+25,"The Home Depot, Inc.",$336.99 B,HD,United States,Consumer Discretionary,Home Improvement Retail
+26,Kweichow Moutai Co. Ltd,$299.54 B,600519,China,Consumer Staples,Beverages—Wineries & Distilleries
+27,ASML Holding N.V.,$297.10 B,ASML,Netherlands,Technology,Semiconductor Equipment & Materials
+28,"Merck & Co., Inc.",$296.51 B,MRK,United States,Healthcare,Drug Manufacturers—General
+29,Costco Wholesale Corporation,$287.69 B,COST,United States,Consumer Staples,Discount Stores
+30,Chevron Corporation,$287.56 B,CVX,United States,Energy,Oil & Gas Integrated
+31,AbbVie Inc.,$285.06 B,ABBV,United States,Healthcare,Drug Manufacturers—General
+32,Oracle Corporation,$282.01 B,ORCL,United States,Technology,Software—Infrastructure
+33,Bank of America Corporation,$267.48 B,BAC,United States,Financials,Banks—Diversified
+34,L'Oréal SA,$262.20 B,OR,France,Consumer Staples,Household & Personal Products
+35,Adobe Inc.,$260.23 B,ADBE,United States,Technology,Software—Infrastructure
+36,The Coca-Cola Company,$259.23 B,KO,United States,Consumer Staples,Beverages—Non-Alcoholic
+37,Toyota Motor Corporation,$259.01 B,7203,Japan,Consumer Discretionary,Auto Manufacturers
+38,"salesforce.com, inc.",$243.78 B,CRM,United States,Technology,Software—Application
+39,Roche Holding AG,$240.44 B,ROG,Switzerland,Healthcare,Drug Manufacturers—General
+40,"PepsiCo, Inc.",$237.77 B,PEP,United States,Consumer Staples,Beverages—Non-Alcoholic
+41,Industrial & Commercial Bank of China Ltd,$226.49 B,601398,China,Financials,Banks—Diversified
+42,Novartis AG,$220.27 B,NOVN,Switzerland,Healthcare,Drug Manufacturers—General
+43,"Advanced Micro Devices, Inc.",$219.72 B,AMD,United States,Technology,Semiconductors
+44,Hermès International SCA,$218.52 B,RMS,France,Consumer Discretionary,Luxury Goods
+45,McDonald's Corporation,$213.53 B,MCD,United States,Consumer Discretionary,Restaurants
+46,Shell plc,$213.51 B,SHEL,United Kingdom,Energy,Oil & Gas Integrated
+47,AstraZeneca plc,$212.31 B,AZN,United Kingdom,Healthcare,Drug Manufacturers—General
+48,Accenture plc,$211.87 B,ACN,Ireland,Technology,Information Technology Services
+49,"Netflix, Inc.",$207.75 B,NFLX,United States,Communication Services,Entertainment
+50,Thermo Fisher Scientific Inc.,$207.62 B,TMO,United States,Healthcare,Diagnostics & Research
+51,"Cisco Systems, Inc.",$205.21 B,CSCO,United States,Technology,Communication Equipment
+52,Intel Corporation,$198.49 B,INTC,United States,Technology,Semiconductors
+53,Linde plc,$198.22 B,LIN,United Kingdom,Basic Materials,Specialty Chemicals
+54,Pinduoduo Inc.,$197.91 B,PDD,China,Consumer Discretionary,Internet Retail
+55,Abbott Laboratories,$192.67 B,ABT,United States,Healthcare,Medical Devices
+56,"T-Mobile US, Inc.",$187.70 B,TMUS,United States,Communication Services,Telecom Services
+57,China Mobile Ltd,$185.54 B,0941,Hong Kong,Communication Services,Telecom Services
+58,Alibaba Group Holding Limited,$184.03 B,9988,China,Consumer Discretionary,Internet Retail
+59,PetroChina Company Limited,$182.61 B,601857,China,Energy,Oil & Gas Integrated
+60,Wells Fargo & Company,$178.97 B,WFC,United States,Financials,Banks—Diversified
+61,Agricultural Bank of China Ltd,$178.47 B,601288,China,Financials,Banks—Diversified
+62,SAP SE,$175.44 B,SAP,Germany,Technology,Software—Application
+63,Comcast Corporation,$174.33 B,CMCSA,United States,Communication Services,Entertainment
+64,Danaher Corporation,$171.89 B,DHR,United States,Healthcare,Diagnostics & Research
+65,BHP Group,$169.91 B,BHP,Australia,Basic Materials,Other Industrial Metals & Mining
+66,Pfizer Inc.,$167.87 B,PFE,United States,Healthcare,Drug Manufacturers—General
+67,The Walt Disney Company,$167.75 B,DIS,United States,Communication Services,Entertainment
+68,HDFC Bank Limited,$167.72 B,HDB,India,Financials,Banks—Regional
+69,Verizon Communications Inc.,$165.52 B,VZ,United States,Communication Services,Telecom Services
+70,Intuit Inc.,$165.41 B,INTU,United States,Technology,Software—Application
+71,Amgen Inc.,$162.25 B,AMGN,United States,Healthcare,Drug Manufacturers—General
+72,TotalEnergies SE,$161.47 B,TTE,France,Energy,Oil & Gas Integrated
+73,Prosus N.V.,$159.09 B,PRX,Netherlands,Communication Services,Internet Content & Information
+74,"Nike, Inc.",$158.34 B,NKE,United States,Consumer Discretionary,Footwear & Accessories
+75,HSBC Holdings plc,$155.80 B,HSBA,United Kingdom,Financials,Banks—Diversified
+76,Qualcomm Incorporated,$153.17 B,QCOM,United States,Technology,Semiconductors
+77,Bank of China Ltd,$151.64 B,601988,China,Financials,Banks—Diversified
+78,Texas Instruments Incorporated,$151.39 B,TXN,United States,Technology,Semiconductors
+79,Morgan Stanley,$151.25 B,MS,United States,Financials,Capital Markets
+80,China Construction Bank Corp,$150.20 B,601939,China,Financials,Banks—Diversified
+81,Philip Morris International Inc.,$148.50 B,PM,United States,Consumer Staples,Tobacco
+82,The Boeing Company,$148.18 B,BA,United States,Industrials,Aerospace & Defense
+83,The Blackstone Group Inc.,$147.99 B,BX,United States,Financials,Asset Management
+84,Union Pacific Corporation,$147.34 B,UNP,United States,Industrials,Railroads
+85,International Business Machines Corporation,$146.88 B,IBM,United States,Technology,Information Technology Services
+86,Caterpillar Inc.,$145.65 B,CAT,United States,Industrials,Farm & Heavy Construction Machinery
+87,ConocoPhillips,$142.41 B,COP,United States,Energy,Oil & Gas E&P
+88,Royal Bank of Canada,$142.03 B,RY,Canada,Financials,Banks—Diversified
+89,Christian Dior SE,$140.98 B,CDI,France,Consumer Discretionary,Luxury Goods
+90,Siemens AG,$138.51 B,SIE,Germany,Industrials,Specialty Industrial Machinery
+91,"ServiceNow, Inc.",$138.47 B,NOW,United States,Technology,Software—Application
+92,American Express Company,$136.38 B,AXP,United States,Financials,Credit Services
+93,S&P Global Inc.,$136.18 B,SPGI,United States,Financials,Financial Data & Stock Exchanges
+94,General Electric Company,$135.68 B,GE,United States,Industrials,Specialty Industrial Machinery
+95,Honeywell International Inc.,$135.08 B,HON,United States,Industrials,Specialty Industrial Machinery
+96,"United Parcel Service, Inc.",$134.21 B,UPS,United States,Industrials,Integrated Freight & Logistics
+97,Commonwealth Bank of Australia,$129.61 B,CBA,Australia,Financials,Banks—Diversified
+98,Anheuser-Busch InBev SA/NV,$129.00 B,ABI,Belgium,Consumer Staples,Beverages—Brewers
+99,"Industria de Diseño Textil, SA",$128.56 B,ITX,Spain,Consumer Discretionary,Apparel Retail
+100,Sanofi,$128.15 B,SAN,France,Healthcare,Drug Manufacturers—General
+101,"NextEra Energy, Inc.",$127.19 B,NEE,United States,Utilities,Utilities—Regulated Electric
+102,"Applied Materials, Inc.",$125.87 B,AMAT,United States,Technology,Semiconductor Equipment & Materials
+103,"The Goldman Sachs Group, Inc.",$124.88 B,GS,United States,Financials,Capital Markets
+104,Deutsche Telekom AG,$123.30 B,DTE,Germany,Communication Services,Telecom Services
+105,AT&T Inc.,$123.19 B,T,United States,Communication Services,Telecom Services
+106,RTX Corporation,$123.10 B,RTX,United States,Industrials,Aerospace & Defense
+107,The Charles Schwab Corporation,$122.20 B,SCHW,United States,Financials,Capital Markets
+108,"Lowe's Companies, Inc.",$122.08 B,LOW,United States,Consumer Discretionary,Home Improvement Retail
+109,Unilever plc,$121.89 B,ULVR,United Kingdom,Consumer Staples,Household & Personal Products
+110,Airbus SE,$121.56 B,AIR,Netherlands,Industrials,Aerospace & Defense
+111,Rio Tinto Group,$120.67 B,RIO,United Kingdom,Basic Materials,Other Industrial Metals & Mining
+112,"Prologis, Inc.",$120.60 B,PLD,United States,Real Estate,REIT—Industrial
+113,"Uber Technologies, Inc.",$119.87 B,UBER,United States,Technology,Software—Application
+114,Booking Holdings Inc.,$119.32 B,BKNG,United States,Consumer Discretionary,Travel Services
+115,Sony Group Corporation,$117.80 B,6758,Japan,Technology,Consumer Electronics
+116,SinoCloud Group Ltd,"$117.42 B (May 1, 2023)",5EK,Hong Kong,Technology,Information Technology Services
+117,"BlackRock, Inc.",$116.92 B,BLK,United States,Financials,Asset Management
+118,Toronto-Dominion Bank,$115.77 B,TD,Canada,Financials,Banks—Diversified
+119,"Elevance Health, Inc.",$113.92 B,ELV,United States,Healthcare,Healthcare Plans
+120,Lockheed Martin Corporation,$113.91 B,LMT,United States,Industrials,Aerospace & Defense
+121,"Intuitive Surgical, Inc.",$113.81 B,ISRG,United States,Healthcare,Medical Instruments & Supplies
+122,Stryker Corporation,$113.24 B,SYK,United States,Healthcare,Medical Devices
+123,Medtronic plc,$111.60 B,MDT,Ireland,Healthcare,Medical Devices
+124,Deere & Company,$110.24 B,DE,United States,Industrials,Farm & Heavy Construction Machinery
+125,Schneider Electric SE,$110.11 B,SU,France,Industrials,Specialty Industrial Machinery
+126,Vertex Pharmaceuticals Incorporated,$107.23 B,VRTX,United States,Healthcare,Biotechnology
+127,"Mitsubishi UFJ Financial Group, Inc.",$107.09 B,8306,Japan,Financials,Banks—Diversified
+128,Keyence Corp,$106.65 B,6861,Japan,Technology,Scientific & Technical Instruments
+129,Bristol-Myers Squibb Company,$106.42 B,BMY,United States,Healthcare,Drug Manufacturers—General
+130,Starbucks Corporation,$106.34 B,SBUX,United States,Consumer Discretionary,Restaurants
+131,Allianz SE,$106.15 B,ALV,Germany,Financials,Insurance—Diversified
+132,Petróleo Brasileiro S.A. - Petrobras,$106.03 B,PBR,Brazil,Energy,Oil & Gas Integrated
+133,"The TJX Companies, Inc.",$105.74 B,TJX,United States,Consumer Discretionary,Apparel Retail
+134,"Gilead Sciences, Inc.",$105.27 B,GILD,United States,Healthcare,Drug Manufacturers—General
+135,Nippon Telegraph & Telephone Corp,$105.21 B,9432,Japan,Communication Services,Telecom Services
+136,CVS Health Corporation,$104.08 B,CVS,United States,Healthcare,Healthcare Plans
+137,BP plc,$103.48 B,BP.,United Kingdom,Energy,Oil & Gas Integrated
+138,Citigroup Inc.,$102.91 B,C,United States,Financials,Banks—Diversified
+139,Open Joint Stock Company OMZ,"$101.93 B (July 1, 2023)",OMZZP,Russia,Industrials,Specialty Industrial Machinery
+140,Air Liquide SA,$101.75 B,AI,France,Basic Materials,Chemicals
+141,American Tower Corporation (REIT),$100.44 B,AMT,United States,Real Estate,REIT—Specialty
+142,"Regeneron Pharmaceuticals, Inc.",$100.01 B,REGN,United States,Healthcare,Biotechnology
+143,"Mondelez International, Inc.",$99.73 B,MDLZ,United States,Consumer Staples,Confectioners
+144,China Merchants Bank Co Ltd,$98.57 B,600036,China,Financials,Banks—Regional
+145,Lam Research Corporation,$97.14 B,LRCX,United States,Technology,Semiconductor Equipment & Materials
+146,Equinor ASA,$97.10 B,EQNR,Norway,Energy,Oil & Gas Integrated
+147,Contemporary Amperex Technology Co. Ltd,$96.77 B,300750,China,Industrials,Electrical Equipment & Parts
+148,UBS Group AG,$96.76 B,UBSG,Switzerland,Financials,Banks—Diversified
+149,"Automatic Data Processing, Inc.",$96.11 B,ADP,United States,Industrials,Staffing & Employment Services
+150,The Progressive Corporation,$95.50 B,PGR,United States,Financials,Insurance—Property & Casualty
+151,AIA Group Ltd,$94.91 B,1299,Hong Kong,Financials,Insurance—Life
+152,CSL Limited,$94.74 B,CSL,Australia,Healthcare,Biotechnology
+153,"Marsh & McLennan Companies, Inc.",$94.42 B,MMC,United States,Financials,Insurance Brokers
+154,"Analog Devices, Inc.",$93.79 B,ADI,United States,Technology,Semiconductors
+155,Eaton Corporation plc,$93.63 B,ETN,Ireland,Industrials,Specialty Industrial Machinery
+156,Al Rajhi Banking and Investment Corp,$93.33 B,1120,Saudi Arabia,Financials,Banks—Regional
+157,Ping An Insurance (Group) Company of China Ltd,$92.95 B,601318,China,Financials,Insurance—Life
+158,Shopify Inc.,$92.77 B,SHOP,Canada,Technology,Software—Application
+159,Chubb Limited,$92.74 B,CB,Switzerland,Financials,Insurance—Property & Casualty
+160,China Life Insurance Company Limited,$92.27 B,601628,China,Financials,Insurance—Life
+161,"Micron Technology, Inc.",$91.30 B,MU,United States,Technology,Semiconductors
+162,EssilorLuxottica SA,$90.57 B,EL,France,Healthcare,Medical Instruments & Supplies
+163,"Palo Alto Networks, Inc.",$90.41 B,PANW,United States,Technology,Software—Infrastructure
+164,Cigna Corporation,$89.61 B,CI,United States,Healthcare,Healthcare Plans
+165,Zoetis Inc.,$89.09 B,ZTS,United States,Healthcare,Drug Manufacturers—Specialty & Generic
+166,China Shenhua Energy Company Ltd,$88.67 B,601088,China,Energy,Thermal Coal
+167,China Petroleum & Chemical Corporation,$88.42 B,600028,China,Energy,Oil & Gas Integrated
+168,CNOOC Limited,$86.63 B,0883,Hong Kong,Energy,Oil & Gas E&P
+169,"Airbnb, Inc.",$85.47 B,ABNB,United States,Communication Services,Internet Content & Information
+170,Boston Scientific Corporation,$85.22 B,BSX,United States,Healthcare,Medical Devices
+171,Tokyo Electron Ltd,$83.64 B,8035,Japan,Technology,Semiconductor Equipment & Materials
+172,ICICI Bank Limited,$83.47 B,IBN,India,Financials,Banks—Regional
+173,Shin-Etsu Chemical Co Ltd,$82.56 B,4063,Japan,Basic Materials,Chemicals
+174,Canadian National Railway Company,$82.17 B,CNR,Canada,Industrials,Railroads
+175,China Yangtze Power Co. Ltd,$82.16 B,600900,China,Utilities,Utilities—Independent Power Producers
+176,"Iberdrola, SA",$81.95 B,IBE,Spain,Utilities,Utilities—Diversified
+177,Diageo plc,$81.33 B,DGE,United Kingdom,Consumer Staples,Beverages—Wineries & Distilleries
+178,GlaxoSmithKline plc,$80.74 B,GSK,United Kingdom,Healthcare,Drug Manufacturers—General
+179,Atlas Copco AB,$80.27 B,ATCO.A,Sweden,Industrials,Specialty Industrial Machinery
+180,BNP Paribas SA,$80.01 B,BNP,France,Financials,Banks—Regional
+181,ABB Ltd,$79.81 B,ABBN,Switzerland,Industrials,Electrical Equipment & Parts
+182,"Fiserv, Inc.",$79.73 B,FI,United States,Technology,Information Technology Services
+183,BYD Co Ltd,$78.61 B,002594,China,Consumer Discretionary,Auto Manufacturers
+184,"MercadoLibre, Inc.",$78.42 B,MELI,Argentina,Consumer Discretionary,Internet Retail
+185,Enbridge Inc.,$78.29 B,ENB,Canada,Energy,Oil & Gas Midstream
+186,The Southern Company,$78.21 B,SO,United States,Utilities,Utilities—Regulated Electric
+187,Illinois Tool Works Inc.,$78.04 B,ITW,United States,Industrials,Specialty Industrial Machinery
+188,Fast Retailing Co. Ltd,$76.56 B,9983,Japan,Consumer Discretionary,Apparel Retail
+189,PT Bank Central Asia Tbk,$76.50 B,BBCA,Indonesia,Financials,Banks—Regional
+190,Zurich Insurance Group AG,$76.29 B,ZURN,Switzerland,Financials,Insurance—Diversified
+191,Duke Energy Corporation,$76.13 B,DUK,United States,Utilities,Utilities—Regulated Electric
+192,The Sherwin-Williams Company,$75.71 B,SHW,United States,Basic Materials,Specialty Chemicals
+193,Enel SpA,$75.50 B,ENEL,Italy,Utilities,Utilities—Diversified
+194,"SK hynix, Inc.",$75.21 B,000660,South Korea,Technology,Semiconductors
+195,Schlumberger Limited,$75.21 B,SLB,United States,Energy,Oil & Gas Equipment & Services
+196,KLA Corporation,$75.13 B,KLAC,United States,Technology,Semiconductor Equipment & Materials
+197,Infosys Limited,$74.79 B,INFY,India,Technology,Information Technology Services
+198,"Equinix, Inc. (REIT)",$74.75 B,EQIX,United States,Real Estate,REIT—Specialty
+199,RELX plc,$74.71 B,REL,United Kingdom,Communication Services,Publishing
+200,"Synopsys, Inc.",$74.64 B,SNPS,United States,Technology,Software—Infrastructure
+201,Canadian Pacific Railway Limited,$74.55 B,CP,Canada,Industrials,Railroads
+202,AXA SA,$74.38 B,CS,France,Financials,Insurance—Diversified
+203,Canadian Natural Resources Limited,$74.04 B,CNQ,Canada,Energy,Oil & Gas E&P
+204,"Altria Group, Inc.",$73.43 B,MO,United States,Consumer Staples,Tobacco
+205,Glencore plc,$73.42 B,GLEN,Switzerland,Basic Materials,Other Industrial Metals & Mining
+206,Mercedes-Benz Group AG,$73.23 B,MBG,Germany,Consumer Discretionary,Auto Manufacturers
+207,Marinomed Biotech AG,$73.23 B,MBG,Austria,Healthcare,Biotechnology
+208,"HCA Healthcare, Inc.",$73.10 B,HCA,United States,Healthcare,Medical Care Facilities
+209,Bayerische Motoren Werke AG,$73.09 B,BMW,Germany,Consumer Discretionary,Auto Manufacturers
+210,CME Group Inc.,$72.98 B,CME,United States,Financials,Financial Data & Stock Exchanges
+211,"EOG Resources, Inc.",$72.88 B,EOG,United States,Energy,Oil & Gas E&P
+212,Safran SA,$72.49 B,SAF,France,Industrials,Aerospace & Defense
+213,"América Móvil, S.A.B. de C.V.","$72.38 B (May 1, 2023)",AMXA,Mexico,Communication Services,Telecom Services
+214,Vinci SA,$72.19 B,DG,France,Industrials,Engineering & Construction
+215,"Waste Management, Inc.",$72.01 B,WM,United States,Industrials,Waste Management
+216,Wal-Mart de Mexico SAB de CV,$71.99 B,WALMEX,Mexico,Consumer Staples,Discount Stores
+217,"Intercontinental Exchange, Inc.",$71.90 B,ICE,United States,Financials,Financial Data & Stock Exchanges
+218,"Arista Networks, Inc.",$71.73 B,ANET,United States,Technology,Computer Hardware
+219,Northrop Grumman Corporation,$71.61 B,NOC,United States,Industrials,Aerospace & Defense
+220,KKR & Co. Inc.,$71.02 B,KKR,United States,Financials,Asset Management
+221,"Activision Blizzard, Inc.","$70.75 B (July 1, 2023)",ATVI,United States,Communication Services,Electronic Gaming & Multimedia
+222,"Workday, Inc.",$70.57 B,WDAY,United States,Technology,Software—Application
+223,Bank of Montreal,$70.52 B,BMO,Canada,Financials,Banks—Diversified
+224,"Becton, Dickinson and Company",$70.33 B,BDX,United States,Healthcare,Medical Instruments & Supplies
+225,General Dynamics Corporation,$70.01 B,GD,United States,Industrials,Aerospace & Defense
+226,"Cadence Design Systems, Inc.",$69.99 B,CDNS,United States,Technology,Software—Application
+227,Stellantis N.V.,$69.87 B,STLAP,Netherlands,Consumer Discretionary,Auto Manufacturers
+228,Mitsubishi Corp,$69.54 B,8058,Japan,Industrials,Conglomerates
+229,Moody's Corporation,$68.67 B,MCO,United States,Financials,Financial Data & Stock Exchanges
+230,CSX Corporation,$68.61 B,CSX,United States,Industrials,Railroads
+231,KDDI Corp,$68.57 B,9433,Japan,Communication Services,Telecom Services
+232,"Conversion Labs, Inc.",$67.85 B,CVLB,United States,Healthcare,Pharmaceutical Retailers
+233,The Saudi National Bank,$67.76 B,1180,Saudi Arabia,Financials,Banks—Regional
+234,"Banco Santander, SA",$67.65 B,SAN,Spain,Financials,Banks—Diversified
+235,MERCK Kommanditgesellschaft auf Aktien,$67.64 B,MRK,Germany,Healthcare,Drug Manufacturers—Specialty & Generic
+236,"Sumitomo Mitsui Financial Group, Inc.",$67.44 B,8316,Japan,Financials,Banks—Diversified
+237,Hitachi Ltd,$67.34 B,6501,Japan,Industrials,Conglomerates
+238,U.S. Bancorp,$67.28 B,USB,United States,Financials,Banks—Regional
+239,British American Tobacco plc,$67.19 B,BATS,United Kingdom,Consumer Staples,Tobacco
+240,Vale SA,$67.02 B,VALE3,Brazil,Basic Materials,Other Industrial Metals & Mining
+241,Thomson Reuters Corporation,$66.19 B,TRI,Canada,Industrials,Consulting Services
+242,Recruit Holdings Co Ltd,$66.18 B,6098,Japan,Industrials,Staffing & Employment Services
+243,Colgate-Palmolive Company,$66.15 B,CL,United States,Consumer Staples,Household & Personal Products
+244,SoftBank Group Corp.,$66.10 B,9984,Japan,Communication Services,Telecom Services
+245,Siemens Healthineers AG,$66.05 B,SHL,Germany,Healthcare,Diagnostics & Research
+246,China Telecom Corp Ltd,$65.85 B,0728,Hong Kong,Communication Services,Telecom Services
+247,Itaú Unibanco Holding SA,$65.78 B,ITUB,Brazil,Financials,Banks—Regional
+248,Saudi Basic Industries Corp,$65.60 B,2010,Saudi Arabia,Basic Materials,Chemicals
+249,"MAS Real Estate, Inc.",$65.45 B,MSP,United Kingdom,Real Estate,Real Estate—Diversified
+250,Dassault Systèmes SE,$65.35 B,DSY,France,Technology,Software—Application
+251,National Australia Bank Limited,$65.24 B,NAB,Australia,Financials,Banks—Diversified
+252,Sberbank of Russia PJSC,$65.08 B,SBER,Russia,Financials,Banks—Regional
+253,Southern Copper Corporation,$64.86 B,SCCO,United States,Basic Materials,Copper
+254,DBS Group Holdings Ltd,$64.75 B,D05,Singapore,Financials,Banks—Regional
+255,Target Corporation,$64.75 B,TGT,United States,Consumer Staples,Discount Stores
+256,"Marriott International, Inc.",$64.62 B,MAR,United States,Consumer Discretionary,Lodging
+257,Volkswagen AG,$64.33 B,VOW,Germany,Consumer Discretionary,Auto Manufacturers
+258,McKesson Corporation,$63.92 B,MCK,United States,Healthcare,Medical Distribution
+259,London Stock Exchange Group plc,$63.90 B,LSEG,United Kingdom,Financials,Financial Data & Stock Exchanges
+260,Rosneft Oil Co PJSC,$63.33 B,ROSN,Russia,Energy,Oil & Gas Integrated
+261,"PayPal Holdings, Inc.",$63.02 B,PYPL,United States,Financials,Credit Services
+262,Meituan,$63.00 B,3690,China,Consumer Discretionary,Internet Retail
+263,Chugai Pharmaceutical Co. Ltd,$62.94 B,4519,Japan,Healthcare,Drug Manufacturers—General
+264,Lululemon Athletica Inc.,$62.85 B,LULU,Canada,Consumer Discretionary,Apparel Retail
+265,Oriental Land Co. Ltd,$62.69 B,4661,Japan,Consumer Discretionary,Leisure
+266,Nongfu Spring Co. Ltd,$62.21 B,9633,China,Consumer Staples,Beverages—Non-Alcoholic
+267,FedEx Corporation,$61.88 B,FDX,United States,Industrials,Integrated Freight & Logistics
+268,Nintendo Co Ltd,$61.63 B,7974,Japan,Communication Services,Electronic Gaming & Multimedia
+269,"VMware, Inc.","$61.52 B (Dec. 1, 2023)",VMW,United States,Technology,Software—Infrastructure
+270,"Chipotle Mexican Grill, Inc.",$61.30 B,CMG,United States,Consumer Discretionary,Restaurants
+271,"NetEase, Inc.",$60.95 B,9999,China,Communication Services,Internet Content & Information
+272,"The PNC Financial Services Group, Inc.",$60.76 B,PNC,United States,Financials,Banks—Regional
+273,Ferrari N.V.,$60.56 B,RACE,Italy,Consumer Discretionary,Auto Manufacturers
+274,Snowflake Inc.,$60.54 B,SNOW,United States,Technology,Software—Application
+275,Brookfield Corporation,$60.42 B,BN,Canada,Financials,Asset Management
+276,"Air Products and Chemicals, Inc.",$60.19 B,APD,United States,Basic Materials,Chemicals
+277,Monster Beverage Corporation,$60.04 B,MNST,United States,Consumer Staples,Beverages—Non-Alcoholic
+278,ITOCHU Corp,$59.99 B,8001,Japan,Industrials,Conglomerates
+279,Marathon Petroleum Corporation,$59.95 B,MPC,United States,Energy,Oil & Gas Refining & Marketing
+280,3M Company,$59.74 B,MMM,United States,Industrials,Specialty Industrial Machinery
+281,Phillips 66,$59.72 B,PSX,United States,Energy,Oil & Gas Refining & Marketing
+282,Fortescue Metals Group Limited,$59.12 B,FMG,Australia,Basic Materials,Other Industrial Metals & Mining
+283,Cintas Corporation,$59.02 B,CTAS,United States,Industrials,Specialty Business Services
+284,Mitsui & Co. Ltd,$58.72 B,8031,Japan,Energy,Oil & Gas E&P
+285,"CrowdStrike Holdings, Inc.",$58.68 B,CRWD,United States,Technology,Software—Infrastructure
+286,Enterprise Products Partners L.P.,$58.64 B,EPD,United States,Energy,Oil & Gas Midstream
+287,Freeport-McMoRan Inc.,$58.59 B,FCX,United States,Basic Materials,Copper
+288,Aon Plc,$58.24 B,AON,Ireland,Financials,Insurance Brokers
+289,Deutsche Post AG,$58.13 B,DHL,Germany,Industrials,Integrated Freight & Logistics
+290,Parker-Hannifin Corporation,$58.08 B,PH,United States,Industrials,Specialty Industrial Machinery
+291,Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München,$57.81 B,MUV2,Germany,Financials,Insurance—Reinsurance
+292,Alimentation Couche-Tard Inc.,$57.69 B,ATD,Canada,Consumer Staples,Grocery Stores
+293,Heineken N.V.,$57.68 B,HEIA,Netherlands,Consumer Staples,Beverages—Brewers
+294,Bank of Nova Scotia,$57.48 B,BNS,Canada,Financials,Banks—Diversified
+295,Humana Inc.,$57.44 B,HUM,United States,Healthcare,Healthcare Plans
+296,"Charter Communications, Inc.",$57.18 B,CHTR,United States,Communication Services,Entertainment
+297,Amphenol Corporation,$56.89 B,APH,United States,Technology,Electronic Components
+298,Atlassian Corporation Plc,$56.79 B,TEAM,Australia,Technology,Software—Application
+299,"Roper Technologies, Inc.",$56.71 B,ROP,United States,Industrials,Specialty Industrial Machinery
+300,Ecolab Inc.,$55.92 B,ECL,United States,Basic Materials,Specialty Chemicals
+301,"O'Reilly Automotive, Inc.",$55.83 B,ORLY,United States,Consumer Discretionary,Specialty Retail
+302,NXP Semiconductors N.V.,$55.69 B,NXPI,Netherlands,Technology,Semiconductors
+303,Intesa Sanpaolo S.p.A.,$55.63 B,ISP,Italy,Financials,Banks—Regional
+304,Eni S.p.A.,$55.18 B,ENI,Italy,Energy,Oil & Gas Integrated
+305,Westpac Banking Corporation,$55.11 B,WBC,Australia,Financials,Banks—Diversified
+306,Electricité de France SA,"$54.60 B (June 1, 2023)",EDF,France,Utilities,Utilities—Diversified
+307,"Banco Bilbao Vizcaya Argentaria, SA",$54.55 B,BBVA,Spain,Financials,Banks—Diversified
+308,Trane Technologies plc,$54.54 B,TT,Ireland,Industrials,Specialty Industrial Machinery
+309,Dell Technologies Inc.,$54.51 B,DELL,United States,Technology,Computer Hardware
+310,Daiichi Sankyo Company Ltd,$54.41 B,4568,Japan,Healthcare,Drug Manufacturers—General
+311,Emerson Electric Co.,$54.35 B,EMR,United States,Industrials,Specialty Industrial Machinery
+312,Bank of Communications Co. Ltd,$54.31 B,601328,China,Financials,Banks—Diversified
+313,Saudi Telecom Company,$54.30 B,7010,Saudi Arabia,Communication Services,Telecom Services
+314,TransDigm Group Incorporated,$53.96 B,TDG,United States,Industrials,Aerospace & Defense
+315,Pioneer Natural Resources Company,$53.57 B,PXD,United States,Energy,Oil & Gas E&P
+316,Public Storage,$53.43 B,PSA,United States,Real Estate,REIT—Industrial
+317,Kering SA,$53.32 B,KER,France,Consumer Discretionary,Luxury Goods
+318,Constellation Software Inc.,$53.19 B,CSU,Canada,Technology,Software—Application
+319,Occidental Petroleum Corporation,$53.19 B,OXY,United States,Energy,Oil & Gas E&P
+320,"Honda Motor Co., Ltd.",$52.91 B,7267,Japan,Consumer Discretionary,Auto Manufacturers
+321,"Nesco Holdings, Inc.",$52.83 B,NSCO,United States,Industrials,Rental & Leasing Services
+322,Australia and New Zealand Banking Group Limited,$52.78 B,ANZ,Australia,Financials,Banks—Diversified
+323,Norfolk Southern Corporation,$52.68 B,NSC,United States,Industrials,Railroads
+324,PT Bank Rakyat Indonesia (Persero) Tbk,$52.65 B,BYRA,Indonesia,Financials,Banks—Regional
+325,"Simon Property Group, Inc.",$52.56 B,SPG,United States,Real Estate,REIT—Retail
+326,"Motorola Solutions, Inc.",$51.78 B,MSI,United States,Technology,Communication Equipment
+327,"Republic Services, Inc.",$51.65 B,RSG,United States,Industrials,Waste Management
+328,National Grid plc,$50.48 B,NG.,United Kingdom,Utilities,Utilities—Diversified
+329,"Tokio Marine Holdings, Inc.",$50.24 B,8766,Japan,Financials,Insurance—Property & Casualty
+330,Marvell Technology Group Ltd.,$50.20 B,MRVL,Bermuda,Technology,Semiconductors
+331,Rational AG,$50.16 B,RAA,Germany,Industrials,Industrial Distribution
+332,AB Volvo,$50.15 B,VOL4,Sweden,Industrials,Farm & Heavy Construction Machinery
+333,Reckitt Benckiser Group plc,$50.09 B,RKT,United Kingdom,Consumer Staples,Household & Personal Products
+334,"MetLife, Inc.",$49.96 B,MET,United States,Financials,Insurance—Life
+335,Infineon Technologies AG,$49.86 B,IFX,Germany,Technology,Semiconductors
+336,Capital One Financial Corporation,$49.78 B,COF,United States,Financials,Credit Services
+337,ING Groep N.V.,$49.73 B,INGA,Netherlands,Financials,Banks—Diversified
+338,PACCAR Inc,$49.66 B,PCAR,United States,Industrials,Farm & Heavy Construction Machinery
+339,The Estée Lauder Companies Inc.,$49.62 B,EL,United States,Consumer Staples,Household & Personal Products
+340,"Marvell Technology, Inc.",$49.61 B,9MW,United States,Technology,Semiconductors
+341,Crown Castle International Corp. (REIT),$49.44 B,CCI,United States,Real Estate,REIT—Specialty
+342,"MediaTek, Inc.",$49.33 B,2454,Taiwan,Technology,Semiconductors
+343,Shenzhen Mindray Bio-Medical Electronics Co. Ltd,$49.33 B,300760,China,Healthcare,Medical Devices
+344,Truist Financial Corporation,$49.31 B,TFC,United States,Financials,Banks—Regional
+345,"D.R. Horton, Inc.",$49.27 B,DHI,United States,Consumer Discretionary,Residential Construction
+346,Welltower Inc.,$49.21 B,WELL,United States,Real Estate,REIT—Healthcare Facilities
+347,Novatek PJSC,$49.03 B,NVTK,Russia,Energy,Oil & Gas E&P
+348,"Autodesk, Inc.",$48.97 B,ADSK,United States,Technology,Software—Application
+349,PJSC Lukoil,$48.78 B,LKOH,Russia,Energy,Oil & Gas Integrated
+350,Arthur J. Gallagher & Co.,$48.77 B,AJG,United States,Financials,Insurance Brokers
+351,General Motors Company,$48.60 B,GM,United States,Consumer Discretionary,Auto Manufacturers
+352,Sika AG,$48.54 B,SIKA,Switzerland,Basic Materials,Specialty Chemicals
+353,"American International Group, Inc.",$48.18 B,AIG,United States,Financials,Insurance—Diversified
+354,Aflac Incorporated,$48.09 B,AFL,United States,Financials,Insurance—Life
+355,Sempra Energy,$47.84 B,SRE,United States,Utilities,Utilities—Diversified
+356,UniCredit S.p.A.,$47.77 B,UCG,Italy,Financials,Banks—Regional
+357,"Daikin Industries,Ltd.",$47.73 B,6367,Japan,Industrials,Building Products & Equipment
+358,Takeda Pharmaceutical Company Limited,$47.71 B,4502,Japan,Healthcare,Drug Manufacturers—Specialty & Generic
+359,Macquarie Group Limited,$47.54 B,MQG,Australia,Financials,Capital Markets
+360,Xiaomi Corp,$47.53 B,1810,China,Technology,Consumer Electronics
+361,Hon Hai Precision Industry Co. Ltd,$47.43 B,2317,Taiwan,Technology,Electronic Components
+362,"Japan Tobacco, Inc.",$47.28 B,2914,Japan,Consumer Staples,Tobacco
+363,Energy Transfer LP,$47.14 B,ET,United States,Energy,Oil & Gas Midstream
+364,Saudi Arabian Mining Company,$47.11 B,1211,Saudi Arabia,Basic Materials,Other Industrial Metals & Mining
+365,BASF SE,$46.97 B,BAS,Germany,Basic Materials,Chemicals
+366,Ford Motor Company,$46.87 B,F,United States,Consumer Discretionary,Auto Manufacturers
+367,"AgriBank, FCB","$46.82 B (Dec. 1, 2023)",AGRIP,United States,Financials,Credit Services
+368,Compass Group plc,$46.72 B,CPG,United Kingdom,Consumer Discretionary,Restaurants
+369,The Kraft Heinz Company,$46.69 B,KHC,United States,Consumer Staples,Packaged Foods
+370,Sempra,"$46.56 B (July 1, 2023)",SE4,United States,Utilities,Utilities—Diversified
+371,Carrier Global Corporation,$46.55 B,CARR,United States,Industrials,Building Products & Equipment
+372,"DexCom, Inc.",$46.50 B,DXCM,United States,Healthcare,Diagnostics & Research
+373,CRH plc,$46.37 B,CRH,Ireland,Basic Materials,Building Materials
+374,Newmont Corporation,$46.24 B,NEM,United States,Basic Materials,Gold
+375,DENSO Corp,$46.22 B,6902,Japan,Consumer Discretionary,Auto Parts
+376,Hilton Worldwide Holdings Inc.,$45.88 B,HLT,United States,Consumer Discretionary,Lodging
+377,Zijin Mining Group Co Ltd,$45.86 B,601899,China,Basic Materials,Gold
+378,A.H. Belo Corporation,$45.85 B,AHC,United States,Communication Services,Publishing
+379,Microchip Technology Incorporated,$45.77 B,MCHP,United States,Technology,Semiconductors
+380,"Mizuho Financial Group, Inc.",$45.75 B,8411,Japan,Financials,Banks—Regional
+381,PG&E Corporation,$45.71 B,PCG,United States,Utilities,Utilities—Regulated Electric
+382,Keurig Dr Pepper Inc.,$45.58 B,KDP,United States,Consumer Staples,Beverages—Non-Alcoholic
+383,"Ross Stores, Inc.",$45.54 B,ROST,United States,Consumer Discretionary,Apparel Retail
+384,Valero Energy Corporation,$45.53 B,VLO,United States,Energy,Oil & Gas Refining & Marketing
+385,Hess Corporation,$45.40 B,HES,United States,Energy,Oil & Gas E&P
+386,"Copart, Inc.",$44.97 B,CPRT,United States,Industrials,Specialty Business Services
+387,"Fortinet, Inc.",$44.84 B,FTNT,United States,Technology,Software—Infrastructure
+388,"IDEXX Laboratories, Inc.",$44.72 B,IDXX,United States,Healthcare,Diagnostics & Research
+389,Edwards Lifesciences Corporation,$44.59 B,EW,United States,Healthcare,Medical Devices
+390,Canadian Imperial Bank of Commerce,$44.56 B,CM,Canada,Financials,Banks—Diversified
+391,BAE Systems plc,$44.54 B,BA.,United Kingdom,Industrials,Aerospace & Defense
+392,"Constellation Brands, Inc.",$44.51 B,STZ,United States,Consumer Staples,Beverages—Wineries & Distilleries
+393,"AutoZone, Inc.",$44.40 B,AZO,United States,Consumer Discretionary,Specialty Retail
+394,Suncor Energy Inc.,$44.32 B,SU,Canada,Energy,Oil & Gas Integrated
+395,MSCI Inc.,$44.27 B,MSCI,United States,Financials,Financial Data & Stock Exchanges
+396,Ambev SA,$44.27 B,ABEV3,Brazil,Consumer Staples,Beverages—Brewers
+397,"The Williams Companies, Inc.",$44.17 B,WMB,United States,Energy,Oil & Gas Midstream
+398,Gazprom Neft PJSC,$44.02 B,SIBN,Russia,Energy,Oil & Gas Integrated
+399,Wesfarmers Limited,$43.99 B,WES,Australia,Consumer Discretionary,Home Improvement Retail
+400,"The Travelers Companies, Inc.",$43.98 B,TRV,United States,Financials,Insurance—Property & Casualty
+401,Crédit Agricole SA,$43.96 B,ACA,France,Financials,Banks—Regional
+402,Oversea-Chinese Banking Corp Ltd,$43.90 B,O39,Singapore,Financials,Banks—Regional
+403,"American Electric Power Company, Inc.",$43.85 B,AEP,United States,Utilities,Utilities—Regulated Electric
+404,Industrial Bank Co. Ltd,$43.55 B,601166,China,Financials,Banks—Regional
+405,"Cencora, Inc.",$43.41 B,COR,United States,Healthcare,Medical Distribution
+406,Nucor Corporation,$43.41 B,NUE,United States,Basic Materials,Steel
+407,HOYA Corp,$43.39 B,7741,Japan,Healthcare,Medical Instruments & Supplies
+408,Engie SA,$43.28 B,ENGI,France,Utilities,Utilities—Diversified
+409,Seagen Inc.,"$43.15 B (Dec. 1, 2023)",SGEN,United States,Healthcare,Biotechnology
+410,Danone SA,$42.94 B,BN,France,Consumer Staples,Packaged Foods
+411,TE Connectivity Ltd.,$42.62 B,TEL,Switzerland,Technology,Electronic Components
+412,"Samsung Biologics Co.,Ltd.",$42.59 B,207940,South Korea,Healthcare,Biotechnology
+413,"Old Dominion Freight Line, Inc.",$42.47 B,ODFL,United States,Industrials,Trucking
+414,"JD.com, Inc.",$42.45 B,9618,China,Consumer Discretionary,Internet Retail
+415,Kuehne + Nagel International AG,$42.45 B,KNIN,Switzerland,Industrials,Integrated Freight & Logistics
+416,Pernod Ricard SA,$42.41 B,RI,France,Consumer Staples,Beverages—Wineries & Distilleries
+417,"Paychex, Inc.",$42.41 B,PAYX,United States,Industrials,Staffing & Employment Services
+418,PacifiCorp,$42.26 B,PPWLM,United States,Utilities,Utilities—Diversified
+419,"Block, Inc.",$42.15 B,SQ,United States,Technology,Software—Infrastructure
+420,Axis Bank Ltd,$41.87 B,AXISBANK,India,Financials,Banks—Regional
+421,Realty Income Corporation,$41.79 B,O,United States,Real Estate,REIT—Retail
+422,"ONEOK, Inc.",$41.79 B,OKE,United States,Energy,Oil & Gas Midstream
+423,TC Energy Corporation,$41.55 B,TRP,Canada,Energy,Oil & Gas Midstream
+424,Hong Kong Exchanges & Clearing Ltd,$41.53 B,0388,Hong Kong,Financials,Financial Data & Stock Exchanges
+425,"Moderna, Inc.",$41.43 B,MRNA,United States,Healthcare,Biotechnology
+426,Kimberly-Clark Corporation,$41.41 B,KMB,United States,Consumer Staples,Household & Personal Products
+427,"Digital Realty Trust, Inc.",$41.30 B,DLR,United States,Real Estate,REIT—Office
+428,Centene Corporation,$41.25 B,CNC,United States,Healthcare,Healthcare Plans
+429,Lennar Corporation,$40.96 B,LEN,United States,Consumer Discretionary,Residential Construction
+430,STMicroelectronics N.V.,$40.87 B,STM,Switzerland,Technology,Semiconductors
+431,PT Bayan Resources Tbk,"$40.85 B (July 1, 2023)",BYAN,Indonesia,Energy,Thermal Coal
+432,"Baidu, Inc.",$40.68 B,9888,China,Communication Services,Internet Content & Information
+433,Grupo Mexico SAB de CV,$40.57 B,GMEXICOB,Mexico,Basic Materials,Other Industrial Metals & Mining
+434,Woodside Energy Group Ltd,$40.53 B,WDS,Australia,Energy,Oil & Gas E&P
+435,"Dominion Energy, Inc.",$40.53 B,D,United States,Utilities,Utilities—Diversified
+436,"W.W. Grainger, Inc.",$40.50 B,GWW,United States,Industrials,Industrial Distribution
+437,"Cheniere Energy, Inc.",$40.35 B,LNG,United States,Energy,Oil & Gas Midstream
+438,Murata Manufacturing Co. Ltd,$40.27 B,6981,Japan,Technology,Electronic Components
+439,IQVIA Holdings Inc.,$40.16 B,IQV,United States,Healthcare,Diagnostics & Research
+440,"Kinder Morgan, Inc.",$40.12 B,KMI,United States,Energy,Oil & Gas Midstream
+441,CITIC Securities Company Ltd,$40.07 B,600030,China,Financials,Capital Markets
+442,The Bank of New York Mellon Corporation,$40.00 B,BK,United States,Financials,Asset Management
+443,Adyen N.V.,$39.97 B,ADYEN,Netherlands,Technology,Software—Infrastructure
+444,"L3Harris Technologies, Inc.",$39.77 B,LHX,United States,Industrials,Aerospace & Defense
+445,Dr. Ing. h.c. F. Porsche AG,$39.40 B,P911,Germany,Consumer Discretionary,Auto Manufacturers
+446,Manulife Financial Corporation,$39.40 B,MFC,Canada,Financials,Insurance—Life
+447,Ferguson plc,$39.27 B,FERG,United Kingdom,Industrials,Industrial Distribution
+448,The Hershey Company,$39.23 B,HSY,United States,Consumer Staples,Confectioners
+449,Archer-Daniels-Midland Company,$39.01 B,ADM,United States,Consumer Staples,Farm Products
+450,Haleon plc,$38.90 B,HLN,United Kingdom,Healthcare,Drug Manufacturers—Specialty & Generic
+451,The Allstate Corporation,$38.86 B,ALL,United States,Financials,Insurance—Property & Casualty
+452,PT Bank Mandiri (Persero) Tbk,$38.84 B,PQ9,Indonesia,Financials,Banks—Regional
+453,Foxconn Industrial Internet Co. Ltd,$38.82 B,601138,China,Technology,Communication Equipment
+454,Lloyds Banking Group plc,$38.61 B,LLOY,United Kingdom,Financials,Banks—Regional
+455,Johnson Controls International plc,$38.59 B,JCI,Ireland,Industrials,Engineering & Construction
+456,"Ameriprise Financial, Inc.",$38.51 B,AMP,United States,Financials,Asset Management
+457,"Agilent Technologies, Inc.",$38.43 B,A,United States,Healthcare,Diagnostics & Research
+458,Bayer AG,$38.42 B,BAYN,Germany,Healthcare,Drug Manufacturers—General
+459,Jiangsu Hengrui Medicine Co. Ltd,$38.34 B,600276,China,Healthcare,Drug Manufacturers—General
+460,"Coinbase Global, Inc.",$38.32 B,1QZ,United States,Technology,Software—Application
+461,Dow Inc.,$38.32 B,DOW,United States,Basic Materials,Chemicals
+462,Las Vegas Sands Corp.,$38.17 B,LVS,United States,Consumer Discretionary,Resorts & Casinos
+463,Biogen Inc.,$38.17 B,BIIB,United States,Healthcare,Drug Manufacturers—General
+464,DSV PANALPINA A-S,$38.06 B,DSV,Denmark,Industrials,Integrated Freight & Logistics
+465,"Waste Connections, Inc.",$38.00 B,WCN,United States,Industrials,Waste Management
+466,"General Mills, Inc.",$37.90 B,GIS,United States,Consumer Staples,Packaged Foods
+467,Sysco Corporation,$37.89 B,SYY,United States,Consumer Staples,Food Distribution
+468,"Shanxi Xinghuacun Fen Wine Factory Co.,Ltd.",$37.85 B,600809,China,Consumer Staples,Beverages—Wineries & Distilleries
+469,Alcon Inc.,$37.65 B,ALC,Switzerland,Healthcare,Medical Instruments & Supplies
+470,Spotify Technology SA,$37.58 B,SPOT,Luxembourg,Communication Services,Internet Content & Information
+471,"JAPAN POST BANK Co.,Ltd.",$37.54 B,7182,Japan,Financials,Banks—Regional
+472,Deutsche Börse AG,$37.47 B,DB1,Germany,Financials,Financial Data & Stock Exchanges
+473,Experian plc,$37.45 B,EXPN,Ireland,Industrials,Consulting Services
+474,BCE Inc.,$37.39 B,BCE,Canada,Communication Services,Telecom Services
+475,"DoorDash, Inc.",$37.36 B,DASH,United States,Communication Services,Internet Content & Information
+476,"United Rentals, Inc.",$37.20 B,URI,United States,Industrials,Rental & Leasing Services
+477,"Prudential Financial, Inc.",$37.14 B,PRU,United States,Financials,Insurance—Life
+478,Givaudan SA,$37.12 B,GIVN,Switzerland,Basic Materials,Specialty Chemicals
+479,"Apollo Global Management, Inc.","$37.10 B (Aug. 1, 2023)",APO,United States,Financials,Asset Management
+480,"AMETEK, Inc.",$37.07 B,AME,United States,Industrials,Specialty Industrial Machinery
+481,Constellation Energy Corporation,$37.00 B,CEG,United States,Utilities,Utilities—Renewable
+482,MPLX LP,$36.96 B,MPLX,United States,Energy,Oil & Gas Midstream
+483,Cognizant Technology Solutions Corporation,$36.93 B,CTSH,United States,Technology,Information Technology Services
+484,"Datadog, Inc.",$36.93 B,DDOG,United States,Technology,Software—Application
+485,Electronic Arts Inc.,$36.57 B,EA,United States,Communication Services,Electronic Gaming & Multimedia
+486,Romande Energie Holding SA,"$36.56 B (July 1, 2023)",HREN,Switzerland,Utilities,Utilities—Renewable
+487,Compagnie de Saint-Gobain SA,$36.35 B,SGO,France,Industrials,Building Products & Equipment
+488,"Interactive Brokers Group, Inc.",$36.34 B,IBKR,United States,Financials,Capital Markets
+489,"Yum! Brands, Inc.",$36.19 B,YUM,United States,Consumer Discretionary,Restaurants
+490,United Overseas Bank Ltd,$36.10 B,U11,Singapore,Financials,Banks—Regional
+491,Exelon Corporation,$36.01 B,EXC,United States,Utilities,Utilities—Diversified
+492,"Fidelity National Information Services, Inc.",$35.89 B,FIS,United States,Technology,Information Technology Services
+493,Otis Worldwide Corporation,$35.88 B,OTIS,United States,Industrials,Specialty Industrial Machinery
+494,African Rainbow Capital Investments Ltd,$35.60 B,AIL,Mauritius,Financials,Asset Management
+495,Fastenal Company,$35.55 B,FAST,United States,Industrials,Industrial Distribution
+496,Seven & i Holdings Co. Ltd,$35.52 B,3382,Japan,Consumer Staples,Grocery Stores
+497,Ares Management Corporation,$35.50 B,ARES,United States,Financials,Asset Management
+498,E.ON SE,$35.47 B,EOAA,Germany,Utilities,Utilities—Diversified
+499,Li Auto Inc.,$35.19 B,LI,China,Consumer Discretionary,Auto Manufacturers
+500,Xcel Energy Inc.,$35.17 B,XEL,United States,Utilities,Utilities—Regulated Electric
+501,Palantir Technologies Inc.,$35.01 B,PLTR,United States,Technology,Software—Infrastructure
+502,"Rockwell Automation, Inc.",$34.91 B,ROK,United States,Industrials,Specialty Industrial Machinery
+503,GE HealthCare Technologies Inc.,$34.86 B,GEHC,United States,Healthcare,Health Information Services
+504,Capgemini SE,$34.74 B,CAP,France,Technology,Information Technology Services
+505,Extra Space Storage Inc.,$34.70 B,EXR,United States,Real Estate,REIT—Industrial
+506,SMC Corp,$34.55 B,6273,Japan,Industrials,Specialty Industrial Machinery
+507,"Verisk Analytics, Inc.",$34.50 B,VRSK,United States,Industrials,Consulting Services
+508,Banco Bradesco SA,$34.45 B,BBDC3,Brazil,Financials,Banks—Regional
+509,Baker Hughes Company,$34.34 B,BKR,United States,Energy,Oil & Gas Equipment & Services
+510,"PPG Industries, Inc.",$34.34 B,PPG,United States,Basic Materials,Specialty Chemicals
+511,Restaurant Brands International Inc.,$34.34 B,QSR,Canada,Consumer Discretionary,Restaurants
+512,China CITIC Bank Corp Ltd,$34.32 B,601998,China,Financials,Banks—Regional
+513,Alliance Data Systems Corporation,$34.27 B,ADS,United States,Financials,Credit Services
+514,ON Semiconductor Corporation,$34.18 B,ON,United States,Technology,Semiconductors
+515,"The Trade Desk, Inc.",$34.00 B,TTD,United States,Technology,Software—Application
+516,"Corteva, Inc.",$33.88 B,CTVA,United States,Basic Materials,Agricultural Inputs
+517,Wolters Kluwer N.V.,$33.87 B,WKL,Netherlands,Communication Services,Publishing
+518,Hapag-Lloyd AG,$33.84 B,HLAG,Germany,Industrials,Marine Shipping
+519,"CoStar Group, Inc.",$33.81 B,CSGP,United States,Real Estate,Real Estate Services
+520,"Beijing-Shanghai High-Speed Railway Co.,Ltd.",$33.78 B,601816,China,Industrials,Railroads
+521,Beiersdorf AG,$33.76 B,BEI,Germany,Consumer Staples,Household & Personal Products
+522,Cummins Inc.,$33.70 B,CMI,United States,Industrials,Specialty Industrial Machinery
+523,"Gartner, Inc.",$33.61 B,IT,United States,Technology,Information Technology Services
+524,VICI Properties Inc.,$33.56 B,VICI,United States,Real Estate,REIT—Diversified
+525,Anglo American plc,$33.56 B,AAL,United Kingdom,Basic Materials,Other Industrial Metals & Mining
+526,Assicurazioni Generali,$33.52 B,G,Italy,Financials,Insurance—Diversified
+527,adidas AG,$33.52 B,ADS1,Germany,Consumer Discretionary,Footwear & Accessories
+528,Wanhua Chemical Group Co. Ltd,$33.44 B,600309,China,Basic Materials,Chemicals
+529,The Kroger Co.,$33.42 B,KR,United States,Consumer Staples,Grocery Stores
+530,RWE AG,$33.20 B,RWE,Germany,Utilities,Utilities—Diversified
+531,QNB Finansbank A.S.,$33.16 B,QNBFB,Turkey,Financials,Banks—Regional
+532,"DuPont de Nemours, Inc.",$33.12 B,DD,United States,Basic Materials,Chemicals
+533,Global Payments Inc.,$32.76 B,GPN,United States,Industrials,Specialty Business Services
+534,Halliburton Company,$32.73 B,HAL,United States,Energy,Oil & Gas Equipment & Services
+535,VERBUND AG,$32.66 B,OEW,Austria,Utilities,Utilities—Renewable
+536,Swiss Re AG,$32.63 B,SREN,Switzerland,Financials,Insurance—Reinsurance
+537,"Nasdaq, Inc.",$32.33 B,NDAQ,United States,Financials,Financial Data & Stock Exchanges
+538,Cenovus Energy Inc.,$32.28 B,CVE,Canada,Energy,Oil & Gas Integrated
+539,Imperial Oil Limited,$32.28 B,IMO,Canada,Energy,Oil & Gas Integrated
+540,"CaixaBank, SA",$32.22 B,CABK,Spain,Financials,Banks—Regional
+541,EQT AB,$32.21 B,6EQ,Japan,Financials,Asset Management
+542,"Consolidated Edison, Inc.",$32.19 B,ED,United States,Utilities,Utilities—Regulated Electric
+543,PT. Chandra Asri Petrochemical Tbk,$32.18 B,TPIA,Indonesia,Basic Materials,Specialty Chemicals
+544,Hexagon AB,$32.17 B,HXG,Sweden,Technology,Scientific & Technical Instruments
+545,Rolls-Royce Holdings plc,$32.11 B,RR.,United Kingdom,Industrials,Aerospace & Defense
+546,Delta Electronics,$31.99 B,DELTA,Thailand,Industrials,Electrical Equipment & Parts
+547,Henkel AG & Co KGaA,$31.90 B,HEN,Germany,Consumer Staples,Household & Personal Products
+548,Banco do Brasil SA,$31.89 B,BBAS3,Brazil,Financials,Banks—Regional
+549,Swisscom AG,$31.73 B,SCMN,Switzerland,Communication Services,Telecom Services
+550,AP Moller - Maersk A-S,$31.64 B,MAERSK.A,Denmark,Industrials,Marine Shipping
+551,GlobalFoundries Inc.,$31.55 B,GFS,United States,Technology,Semiconductors
+552,Thales SA,$31.49 B,HO,France,Industrials,Aerospace & Defense
+553,Goodman Group,$31.46 B,GMG,Australia,Real Estate,REIT—Diversified
+554,WEG SA,$31.43 B,WEGE3,Brazil,Industrials,Specialty Industrial Machinery
+555,Naspers Ltd,$31.38 B,NPN,South Africa,Communication Services,Internet Content & Information
+556,LyondellBasell Industries N.V.,$31.32 B,LYB,United States,Basic Materials,Specialty Chemicals
+557,"TC PipeLines, LP",$31.26 B,TCP,United States,Energy,Oil & Gas Midstream
+558,Orange SA,$31.25 B,ORA,France,Communication Services,Telecom Services
+559,Flutter Entertainment plc,$31.25 B,FLTR,Ireland,Consumer Discretionary,Gambling
+560,"Zscaler, Inc.",$31.20 B,ZS,United States,Technology,Software—Infrastructure
+561,"Amadeus IT Group, SA",$31.18 B,AMS,Spain,Technology,Information Technology Services
+562,Prudential plc,$31.10 B,PRU,United Kingdom,Financials,Insurance—Life
+563,Woolworths Group Limited,$31.08 B,WOW,Australia,Consumer Staples,Grocery Stores
+564,ASSA ABLOY AB,$30.89 B,ALZ,Sweden,Industrials,Security & Protection Services
+565,Public Service Enterprise Group Incorporated,$30.80 B,PEG,United States,Utilities,Utilities—Diversified
+566,Telstra Corporation Limited,$30.77 B,TLS,Australia,Communication Services,Telecom Services
+567,Barrick Gold Corporation,$30.75 B,ABX,Canada,Basic Materials,Gold
+568,Japan Post Holdings Co. Ltd,$30.74 B,6178,Japan,Financials,Banks—Regional
+569,Great-West Lifeco Inc.,$30.70 B,GWO,Canada,Financials,Insurance—Life
+570,"East Money Information Co.,Ltd.",$30.58 B,300059,China,Communication Services,Internet Content & Information
+571,Daimler Truck Holding AG,$30.56 B,DTG,Germany,Industrials,Farm & Heavy Construction Machinery
+572,Renesas Electronics Corp,$30.53 B,6723,Japan,Technology,Semiconductors
+573,Royal Caribbean Cruises Ltd.,$30.49 B,RCL,United States,Consumer Discretionary,Travel Services
+574,"Chunghwa Telecom Co., Ltd.",$30.47 B,2412,Taiwan,Communication Services,Telecom Services
+575,Loblaw Companies Limited,$30.45 B,L,Canada,Consumer Staples,Grocery Stores
+576,Lonza Group Ltd,$30.42 B,LONN,Switzerland,Healthcare,Diagnostics & Research
+577,Ingersoll Rand Inc.,$30.34 B,IR,United States,Industrials,Specialty Industrial Machinery
+578,Mitsubishi Electric Corporation,$30.28 B,6503,Japan,Industrials,Electrical Equipment & Parts
+579,Vestas Wind Systems A-S,$30.27 B,VWS,Denmark,Industrials,Specialty Industrial Machinery
+580,Sun Life Financial Inc.,$30.22 B,SLF,Canada,Financials,Insurance—Diversified
+581,Coca-Cola Europacific Partners plc,$30.18 B,CCEP,United Kingdom,Consumer Staples,Beverages—Non-Alcoholic
+582,"Martin Marietta Materials, Inc.",$30.04 B,MLM,United States,Basic Materials,Building Materials
+583,Singapore Telecommunications Ltd,$30.01 B,Z74,Singapore,Communication Services,Telecom Services
+584,Devon Energy Corporation,$29.99 B,DVN,United States,Energy,Oil & Gas E&P
+585,Shaanxi Coal Industry Company Ltd,$29.98 B,601225,China,Energy,Thermal Coal
+586,Veeva Systems Inc.,$29.97 B,VEEV,United States,Healthcare,Health Information Services
+587,Sun Hung Kai Properties Ltd,$29.93 B,0016,Hong Kong,Real Estate,Real Estate—Development
+588,"ANSYS, Inc.",$29.90 B,ANSS,United States,Technology,Software—Application
+589,"Dollar Tree, Inc.",$29.79 B,DLTR,United States,Consumer Staples,Discount Stores
+590,Barclays plc,$29.77 B,BARC,United Kingdom,Financials,Banks—Diversified
+591,HP Inc.,$29.63 B,HPQ,United States,Technology,Computer Hardware
+592,Dollar General Corporation,$29.58 B,DG,United States,Consumer Staples,Discount Stores
+593,Ashtead Group plc,$29.57 B,AHT,United Kingdom,Industrials,Rental & Leasing Services
+594,Vulcan Materials Company,$29.32 B,VMC,United States,Basic Materials,Building Materials
+595,"Quanta Services, Inc.",$29.31 B,PWR,United States,Industrials,Engineering & Construction
+596,Hannover Rück SE,$29.30 B,HNRB,Germany,Financials,Insurance—Reinsurance
+597,PTT PCL,$29.28 B,PTT,Thailand,Energy,Oil & Gas Integrated
+598,Semiconductor Manufacturing International Corp,$29.20 B,688981,China,Technology,Semiconductors
+599,CDW Corporation,$29.10 B,CDW,United States,Technology,Information Technology Services
+600,China Pacific Insurance,$29.06 B,601601,China,Financials,Insurance—Life
+601,WuXi AppTec Co. Ltd,$29.02 B,603259,China,Healthcare,Diagnostics & Research
+602,Transurban Group,$28.97 B,TCL,Australia,Industrials,Infrastructure Operations
+603,Arch Capital Group Ltd.,$28.91 B,ACGL,Bermuda,Financials,Insurance—Diversified
+604,"Naturgy Energy Group, SA",$28.86 B,NTGY,Spain,Utilities,Utilities—Regulated Gas
+605,Equifax Inc.,$28.84 B,EFX,United States,Industrials,Consulting Services
+606,Wipro Limited,$28.84 B,WIPRO,India,Technology,Information Technology Services
+607,Skandinaviska Enskilda Banken AB,$28.81 B,SEB.A,Sweden,Financials,Banks—Regional
+608,Fair Isaac Corporation,$28.77 B,FICO,United States,Technology,Software—Application
+609,Bridgestone Corp,$28.70 B,5108,Japan,Consumer Discretionary,Auto Parts
+610,"Diamondback Energy, Inc.",$28.67 B,FANG,United States,Energy,Oil & Gas E&P
+611,Fujitsu Ltd,$28.61 B,6702,Japan,Technology,Information Technology Services
+612,Kuaishou Technology,$28.59 B,1024,China,Communication Services,Broadcasting
+613,Foshan Haitian Flavouring and Food Company Ltd,$28.51 B,603288,China,Consumer Staples,Packaged Foods
+614,Koninklijke Ahold Delhaize N.V.,$28.47 B,AD,Netherlands,Consumer Staples,Grocery Stores
+615,CITIC Ltd,$28.46 B,0267,Hong Kong,Industrials,Conglomerates
+616,3i Group plc,$28.41 B,III,United Kingdom,Financials,Asset Management
+617,Nutrien Ltd.,$28.32 B,NTR,Canada,Basic Materials,Agricultural Inputs
+618,Banco Santander (Brasil) SA,$28.14 B,SANB11,Brazil,Financials,Banks—Regional
+619,POSCO,$28.13 B,005490,South Korea,Basic Materials,Steel
+620,Grupo Financiero Banorte SAB de CV,$27.97 B,GFNORTEO,Mexico,Financials,Banks—Regional
+621,BOC Hong Kong Holdings Ltd,$27.96 B,2388,Hong Kong,Financials,Banks—Regional
+622,Chocoladefabriken Lindt & Sprüngli AG,$27.84 B,LISN,Switzerland,Consumer Staples,Confectioners
+623,Hennes & Mauritz AB,$27.81 B,HM.B,Sweden,Consumer Discretionary,Apparel Manufacturing
+624,FANUC Corp,$27.76 B,6954,Japan,Industrials,Specialty Industrial Machinery
+625,Shanghai Pudong Development Bank Co. Ltd,$27.75 B,600000,China,Financials,Banks—Regional
+626,Edison International,$27.73 B,EIX,United States,Utilities,Utilities—Regulated Electric
+627,"Monolithic Power Systems, Inc.",$27.71 B,MPWR,United States,Technology,Semiconductors
+628,Deutsche Bank AG,$27.69 B,DBK,Germany,Financials,Banks—Regional
+629,Discover Financial Services,$27.69 B,DFS,United States,Financials,Credit Services
+630,Warner Bros. Discovery,$27.68 B,WBD,United States,Communication Services,Entertainment
+631,"Coupang, Inc.",$27.67 B,CPNG,South Korea,Consumer Discretionary,Internet Retail
+632,PICC Property and Casualty Company Ltd,$27.59 B,2328,China,Financials,Insurance—Property & Casualty
+633,"Ferrovial, SA",$27.52 B,FER,Spain,Industrials,Infrastructure Operations
+634,MMC Norilsk Nickel PJSC,$27.51 B,GMKN,Russia,Basic Materials,Other Industrial Metals & Mining
+635,"Quanta Computer, Inc.",$27.51 B,2382,Taiwan,Technology,Computer Hardware
+636,"Cellnex Telecom, SA",$27.47 B,CLNX,Spain,Communication Services,Telecom Services
+637,Sumitomo Corp,$27.40 B,8053,Japan,Industrials,Conglomerates
+638,KBC Group NV,$27.38 B,KDB,Belgium,Financials,Banks—Regional
+639,Intact Financial Corporation,$27.36 B,IFC,Canada,Financials,Insurance—Property & Casualty
+640,"WEC Energy Group, Inc.",$27.32 B,WEC,United States,Utilities,Utilities—Regulated Electric
+641,Neste Oyj,$27.30 B,NESTE,Finland,Energy,Oil & Gas Refining & Marketing
+642,Haier Smart Home Co Ltd,$27.24 B,600690,China,Consumer Discretionary,"Furnishings, Fixtures & Appliances"
+643,Sandvik AB,$27.18 B,SAND,Sweden,Industrials,Specialty Industrial Machinery
+644,Marubeni Corp,$27.17 B,8002,Japan,Industrials,Conglomerates
+645,"CBRE Group, Inc.",$27.14 B,CBRE,United States,Real Estate,Real Estate Services
+646,Xylem Inc.,$27.08 B,XYL,United States,Industrials,Specialty Industrial Machinery
+647,The People's Insurance Company (Group) of China Ltd,$27.06 B,601319,China,Financials,Insurance—Property & Casualty
+648,Tesco plc,$27.06 B,TSCO,United Kingdom,Consumer Staples,Grocery Stores
+649,"Take-Two Interactive Software, Inc.",$27.02 B,TTWO,United States,Communication Services,Electronic Gaming & Multimedia
+650,SBA Communications Corporation,$26.96 B,SBAC,United States,Real Estate,REIT—Specialty
+651,Fubon Financial Holding Co. Ltd,$26.93 B,2881,Taiwan,Financials,Insurance—Life
+652,Brown-Forman Corporation,$26.93 B,BF.B,United States,Consumer Staples,Beverages—Wineries & Distilleries
+653,"MongoDB, Inc.",$26.92 B,MDB,United States,Technology,Software—Infrastructure
+654,Dr. Sulaiman Al Habib Medical Services Group Company,$26.92 B,4013,Saudi Arabia,Healthcare,Medical Care Facilities
+655,"HubSpot, Inc.",$26.84 B,HUBS,United States,Technology,Software—Application
+656,Legrand SA,$26.84 B,LR,France,Industrials,Specialty Industrial Machinery
+657,"Aena S.M.E., SA",$26.83 B,A440,Spain,Industrials,Airports & Air Services
+658,Kansas City Southern,"$26.59 B (Dec. 1, 2021)",KSU,United States,Industrials,Railroads
+659,ANTA Sports Products Ltd,$26.43 B,2020,China,Consumer Discretionary,Leisure
+660,"Keysight Technologies, Inc.",$26.37 B,KEYS,United States,Technology,Scientific & Technical Instruments
+661,Agnico Eagle Mines Limited,$26.31 B,AEM,Canada,Basic Materials,Gold
+662,Klabin SA,$26.30 B,KLBN11,Brazil,Basic Materials,Paper & Paper Products
+663,TELUS Corporation,$26.28 B,T,Canada,Communication Services,Telecom Services
+664,Airports of Thailand Public Company Ltd,$26.27 B,AOT,Thailand,Industrials,Airports & Air Services
+665,Snap Inc.,$26.15 B,SNAP,United States,Communication Services,Internet Content & Information
+666,Roblox Corp,$26.14 B,RBLX,United States,Communication Services,Electronic Gaming & Multimedia
+667,"AvalonBay Communities, Inc.",$26.07 B,AVB,United States,Real Estate,REIT—Residential
+668,Z Holdings Corp,$26.06 B,4689,Japan,Consumer Discretionary,Internet Retail
+669,"Cardinal Health, Inc.",$26.02 B,CAH,United States,Healthcare,Medical Distribution
+670,Toyota Industries Corp,$26.01 B,6201,Japan,Consumer Discretionary,Auto Manufacturers
+671,"American Water Works Company, Inc.",$26.00 B,AWK,United States,Utilities,Utilities—Regulated Water
+672,Canon Inc.,$25.94 B,7751,Japan,Technology,Computer Hardware
+673,SSE plc,$25.85 B,SSE,United Kingdom,Utilities,Utilities—Diversified
+674,Corning Incorporated,$25.83 B,GLW,United States,Technology,Electronic Components
+675,"Delta Electronics, Inc.",$25.82 B,2308,Taiwan,Technology,Electronic Components
+676,Schindler Holding AG,$25.79 B,SCHN,Switzerland,Industrials,Specialty Industrial Machinery
+677,BioNTech SE,$25.76 B,22UA,Germany,Healthcare,Biotechnology
+678,Central Japan Railway Co,$25.70 B,9022,Japan,Industrials,Railroads
+679,"Cloudflare, Inc.",$25.65 B,NET,United States,Technology,Software—Infrastructure
+680,Splunk Inc.,$25.65 B,SPLK,United States,Technology,Software—Infrastructure
+681,Komatsu Ltd,$25.63 B,6301,Japan,Industrials,Farm & Heavy Construction Machinery
+682,National Bank of Canada,$25.61 B,NA,Canada,Financials,Banks—Diversified
+683,KONE Oyj,$25.57 B,KNEBV,Finland,Industrials,Specialty Industrial Machinery
+684,Vonovia SE,$25.55 B,VNA,Germany,Real Estate,Real Estate Services
+685,Advantest Corp,$25.52 B,6857,Japan,Technology,Semiconductor Equipment & Materials
+686,"Cheniere Energy Partners, L.P.",$25.50 B,CQP,United States,Energy,Oil & Gas Midstream
+687,Evolution Gaming Group AB,$25.43 B,EVO,Sweden,Consumer Discretionary,Gambling
+688,Open Orphan plc,$25.41 B,ORPH,United Kingdom,Healthcare,Biotechnology
+689,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,$25.29 B,TLK,Indonesia,Communication Services,Telecom Services
+690,ASM International NV,$25.27 B,ASM,Netherlands,Technology,Semiconductor Equipment & Materials
+691,NARI Technology Co. Ltd,$25.23 B,600406,China,Industrials,Specialty Industrial Machinery
+692,"Delta Air Lines, Inc.",$25.22 B,DAL,United States,Industrials,Airlines
+693,"Rocket Companies, Inc.",$25.18 B,RKT,United States,Financials,Mortgage Finance
+694,"Zimmer Biomet Holdings, Inc.",$25.18 B,ZBH,United States,Healthcare,Medical Devices
+695,Fortive Corporation,$25.13 B,FTV,United States,Technology,Scientific & Technical Instruments
+696,Ecopetrol SA,$25.12 B,EC,Colombia,Energy,Oil & Gas Integrated
+697,"West Pharmaceutical Services, Inc.",$25.08 B,WST,United States,Healthcare,Medical Instruments & Supplies
+698,China Resources Land Ltd,$24.98 B,1109,Hong Kong,Real Estate,Real Estate—Development
+699,Banco BTG Pactual SA,$24.97 B,BPAC11,Brazil,Financials,Capital Markets
+700,Terumo Corp,$24.93 B,4543,Japan,Healthcare,Medical Instruments & Supplies
+701,Mettler-Toledo International Inc.,$24.92 B,MTD,United States,Healthcare,Diagnostics & Research
+702,Rogers Communications Inc.,$24.87 B,RCI.B,Canada,Communication Services,Telecom Services
+703,Weyerhaeuser Company,$24.86 B,WY,United States,Real Estate,REIT—Specialty
+704,Compagnie Générale des Etablissements Michelin SCA,$24.86 B,ML,France,Consumer Discretionary,Auto Parts
+705,Willis Towers Watson plc,$24.85 B,WTW,United Kingdom,Financials,Insurance Brokers
+706,Trip.com Group Limited,$24.84 B,TCOM,China,Consumer Discretionary,Travel Services
+707,Yihai Kerry Arawana Holdings Co. Ltd,$24.84 B,300999,China,Consumer Staples,Packaged Foods
+708,"LYONDELLBASELL ADVANCED POLYMERS, Inc.",$24.78 B,SLMNP,United States,Basic Materials,Chemicals
+709,Formosa Petrochemical Corp,$24.77 B,6505,Taiwan,Energy,Oil & Gas Refining & Marketing
+710,NatWest Group plc,$24.73 B,NWG,United Kingdom,Financials,Banks—Diversified
+711,"The Hartford Financial Services Group, Inc.",$24.66 B,HIG,United States,Financials,Insurance—Diversified
+712,ResMed Inc.,$24.65 B,RMD,United States,Healthcare,Medical Instruments & Supplies
+713,Straumann Holding AG,$24.46 B,STMN,Switzerland,Healthcare,Medical Instruments & Supplies
+714,Mahindra & Mahindra Ltd,$24.39 B,M&M,India,Consumer Discretionary,Auto Manufacturers
+715,Sartorius Stedim Biotech SA,$24.38 B,DIM,France,Healthcare,Medical Instruments & Supplies
+716,FUJIFILM Holdings Corp,$24.27 B,4901,Japan,Industrials,Business Equipment & Supplies
+717,Vodafone Group plc,$24.27 B,VOD,United Kingdom,Communication Services,Telecom Services
+718,"Pinterest, Inc.",$24.18 B,PINS,United States,Communication Services,Internet Content & Information
+719,Sands China Ltd,$24.15 B,1928,Macao,Consumer Discretionary,Resorts & Casinos
+720,"Alnylam Pharmaceuticals, Inc.",$24.13 B,ALNY,United States,Healthcare,Biotechnology
+721,CGI Inc.,$24.08 B,GIB.A,Canada,Technology,Information Technology Services
+722,Heineken Holding N.V.,$24.04 B,HEIO,Netherlands,Consumer Staples,Beverages—Brewers
+723,Galaxy Entertainment Group Ltd,$24.00 B,0027,Hong Kong,Consumer Discretionary,Resorts & Casinos
+724,Danske Bank A-S,$23.93 B,DANSKE,Denmark,Financials,Banks—Regional
+725,Aptiv PLC,$23.90 B,APTV,Ireland,Consumer Discretionary,Auto Parts
+726,Mitsui Fudosan Co. Ltd,$23.89 B,8801,Japan,Real Estate,Real Estate—Diversified
+727,State Street Corporation,$23.88 B,STT,United States,Financials,Asset Management
+728,Budweiser Brewing Company APAC Ltd,$23.78 B,1876,Hong Kong,Consumer Staples,Beverages—Brewers
+729,Garmin Ltd.,$23.75 B,GRMN,Switzerland,Technology,Scientific & Technical Instruments
+730,"T. Rowe Price Group, Inc.",$23.75 B,TROW,United States,Financials,Asset Management
+731,Great Wall Motor Co Ltd,$23.74 B,601633,China,Consumer Discretionary,Auto Manufacturers
+732,Panasonic Corp,$23.71 B,6752,Japan,Technology,Consumer Electronics
+733,"Grupo Carso, S.A.B. de C.V.",$23.68 B,GCARSOA1,Mexico,Industrials,Conglomerates
+734,Inner Mongolia Yili Industrial Group Co. Ltd,$23.63 B,600887,China,Consumer Staples,Packaged Foods
+735,Horizon Therapeutics Public Limited Company,"$23.58 B (July 1, 2023)",HZNP,Ireland,Healthcare,Drug Manufacturers—General
+736,LONGi Green Energy Technology Co. Ltd,$23.58 B,601012,China,Technology,Semiconductor Equipment & Materials
+737,Fifth Third Bancorp,$23.44 B,FITB,United States,Financials,Banks—Regional
+738,EnBW Energie Baden-Wuerttemberg AG,$23.39 B,EBK,Germany,Utilities,Utilities—Diversified
+739,Nidec Corp,$23.38 B,6594,Japan,Industrials,Specialty Industrial Machinery
+740,"Telefónica, SA",$23.33 B,TEF,Spain,Communication Services,Telecom Services
+741,Publicis Groupe SA,$23.31 B,PUB,France,Communication Services,Advertising Agencies
+742,"Church & Dwight Co., Inc.",$23.29 B,CHD,United States,Consumer Staples,Household & Personal Products
+743,Tractor Supply Company,$23.25 B,TSCO,United States,Consumer Discretionary,Specialty Retail
+744,China Everbright Bank Company Ltd,$23.25 B,601818,China,Financials,Banks—Regional
+745,"Broadridge Financial Solutions, Inc.",$23.19 B,BR,United States,Technology,Information Technology Services
+746,CEZ AS,$23.17 B,CEZ,Czechia,Utilities,Utilities—Renewable
+747,Riyad Bank,$23.16 B,1010,Saudi Arabia,Financials,Banks—Regional
+748,Lasertec Corp,$23.10 B,6920,Japan,Technology,Scientific & Technical Instruments
+749,Equity Residential,$23.07 B,EQR,United States,Real Estate,REIT—Residential
+750,ArcelorMittal,$23.06 B,MT,Luxembourg,Basic Materials,Steel
+751,China Tourism Group Duty Free Corp Ltd,$23.03 B,601888,China,Consumer Discretionary,Travel Services
+752,"Ulta Beauty, Inc.",$23.01 B,ULTA,United States,Consumer Discretionary,Specialty Retail
+753,Swedbank AB,$22.99 B,SWED.A,Sweden,Financials,Banks—Regional
+754,"Raymond James Financial, Inc.",$22.98 B,RJF,United States,Financials,Capital Markets
+755,argenx SE,$22.96 B,ARGX,Netherlands,Healthcare,Biotechnology
+756,DTE Energy Company,$22.89 B,DTE,United States,Utilities,Utilities—Regulated Electric
+757,"Shenzhen Inovance Technology Co.,Ltd",$22.82 B,300124,China,Industrials,Electrical Equipment & Parts
+758,Fairfax Financial Holdings Limited,$22.71 B,FFH,Canada,Financials,Insurance—Property & Casualty
+759,Associated British Foods plc,$22.70 B,ABF,United Kingdom,Consumer Staples,Packaged Foods
+760,ORIX Corporation,$22.70 B,8591,Japan,Financials,Credit Services
+761,"Astellas Pharma, Inc.",$22.67 B,4503,Japan,Healthcare,Drug Manufacturers—General
+762,"Fomento Económico Mexicano, S.A.B. de C.V.",$22.64 B,FEMSAUBD,Mexico,Consumer Staples,Beverages—Brewers
+763,M&T Bank Corporation,$22.62 B,MTB,United States,Financials,Banks—Regional
+764,Standard Chartered plc,$22.62 B,STAN,United Kingdom,Financials,Banks—Diversified
+765,eBay Inc.,$22.61 B,EBAY,United States,Consumer Discretionary,Internet Retail
+766,"Huaneng Lancang River Hydropower, Inc.",$22.51 B,600025,China,Utilities,Utilities—Renewable
+767,Veolia Environnement SA,$22.50 B,VIE,France,Industrials,Waste Management
+768,"Viela Bio, Inc.",$22.50 B,VIE,United States,Healthcare,Biotechnology
+769,Eversource Energy,$22.46 B,ES,United States,Utilities,Utilities—Regulated Electric
+770,"Endesa, SA",$22.40 B,ELE,Spain,Utilities,Utilities—Regulated Electric
+771,MTR Corp Ltd,$22.37 B,0066,Hong Kong,Industrials,Railroads
+772,Epiroc AB,$22.35 B,3AD2,Sweden,Industrials,Farm & Heavy Construction Machinery
+773,Wabtec Corporation,$22.34 B,WAB,United States,Industrials,Railroads
+774,First Republic Bank,"$22.30 B (Jan. 1, 2023)",FRC,United States,Financials,Banks—Regional
+775,SAIC Motor Corp Ltd,$22.27 B,600104,China,Consumer Discretionary,Auto Manufacturers
+776,East Japan Railway Company,$22.23 B,9020,Japan,Industrials,Railroads
+777,Hewlett Packard Enterprise Company,$22.15 B,HPE,United States,Technology,Communication Equipment
+778,ICON Public Limited Company,$22.12 B,ICLR,Ireland,Healthcare,Diagnostics & Research
+779,Nippon Steel Corp,$22.11 B,5401,Japan,Basic Materials,Steel
+780,Toyota Tsusho Corp,$22.11 B,8015,Japan,Basic Materials,Steel
+781,"NVR, Inc.",$22.09 B,NVR,United States,Consumer Discretionary,Residential Construction
+782,"Molina Healthcare, Inc.",$22.08 B,MOH,United States,Healthcare,Healthcare Plans
+783,Sea Limited,$22.07 B,SE,Singapore,Communication Services,Electronic Gaming & Multimedia
+784,"Walgreens Boots Alliance, Inc.",$22.04 B,WBA,United States,Healthcare,Pharmaceutical Retailers
+785,China Minsheng Banking Corp Ltd,$21.97 B,600016,China,Financials,Banks—Regional
+786,Grupo Bimbo SAB de CV,$21.94 B,BIMBOA,Mexico,Consumer Staples,Packaged Foods
+787,Sampo Oyj,$21.93 B,SAMPO,Finland,Financials,Insurance—Diversified
+788,Wheaton Precious Metals Corp.,$21.90 B,WPM,Canada,Basic Materials,Gold
+789,"Alexandria Real Estate Equities, Inc.",$21.84 B,ARE,United States,Real Estate,REIT—Office
+790,Entergy Corporation,$21.80 B,ETR,United States,Utilities,Utilities—Diversified
+791,Franco-Nevada Corporation,$21.76 B,FNV,Canada,Basic Materials,Gold
+792,Howmet Aerospace Inc.,$21.72 B,HWM,United States,Industrials,Specialty Industrial Machinery
+793,FirstEnergy Corp.,$21.68 B,FE,United States,Utilities,Utilities—Diversified
+794,"Dai-ichi Life Holdings, Inc.",$21.68 B,8750,Japan,Financials,Insurance—Life
+795,FirstRand Ltd,$21.67 B,FSR,South Africa,Financials,Banks—Diversified
+796,"PulteGroup, Inc.",$21.66 B,PHM,United States,Consumer Discretionary,Residential Construction
+797,Unicharm Corp,$21.64 B,8113,Japan,Consumer Staples,Household & Personal Products
+798,Cathay Financial Holding Co. Ltd,$21.59 B,2882,Taiwan,Financials,Insurance—Life
+799,Saudi Electricity Company,$21.56 B,5110,Saudi Arabia,Utilities,Utilities—Regulated Electric
+800,Svenska Handelsbanken AB,$21.53 B,SHB.A,Sweden,Financials,Banks—Diversified
+801,Otsuka Holdings Co. Ltd,$21.48 B,4578,Japan,Healthcare,Drug Manufacturers—General
+802,"MS&AD Insurance Group Holdings, Inc.",$21.47 B,8725,Japan,Financials,Insurance—Property & Casualty
+803,Koninklijke Philips N.V.,$21.46 B,PHIA,Netherlands,Healthcare,Diagnostics & Research
+804,STERIS Corp,$21.41 B,S1TE34,United States,Healthcare,Medical Devices
+805,Hang Seng Bank Limited,$21.37 B,0011,Hong Kong,Financials,Banks—Regional
+806,Carnival Corporation & plc,$21.36 B,CCL,United States,Consumer Discretionary,Travel Services
+807,STERIS plc,$21.34 B,STE,Ireland,Healthcare,Medical Instruments & Supplies
+808,Itausa - Investimentos Itau SA,$21.33 B,ITSA3,Brazil,Financials,Banks—Regional
+809,Teck Resources Limited,$21.26 B,TECK.B,Canada,Basic Materials,Other Industrial Metals & Mining
+810,Société Générale SA,$21.24 B,GLE,France,Financials,Banks—Regional
+811,Antofagasta plc,$21.24 B,ANTO,United Kingdom,Basic Materials,Copper
+812,COSCO SHIPPING Holdings Co Ltd,$21.16 B,601919,China,Industrials,Marine Shipping
+813,China National Nuclear Power Co. Ltd,$21.14 B,601985,China,Utilities,Utilities—Independent Power Producers
+814,CGN Power Co. Ltd,$21.12 B,003816,China,Utilities,Utilities—Independent Power Producers
+815,Alinma Bank,$21.12 B,1150,Saudi Arabia,Financials,Banks—Regional
+816,Suzuki Motor Corp,$21.11 B,7269,Japan,Consumer Discretionary,Auto Manufacturers
+817,HEICO Corporation,$21.09 B,HEI,United States,Industrials,Aerospace & Defense
+818,Sartorius AG,$21.03 B,SRT,Germany,Healthcare,Medical Instruments & Supplies
+819,CSC Financial Co. Ltd,$20.96 B,601066,China,Financials,Capital Markets
+820,EDP - Energias de Portugal SA,$20.96 B,EDP,Portugal,Utilities,Utilities—Diversified
+821,"EDP Renováveis, SA",$20.95 B,EDPR,Spain,Utilities,Utilities—Renewable
+822,Genmab A/S,$20.91 B,GMAB,Denmark,Healthcare,Biotechnology
+823,Invitation Homes Inc.,$20.90 B,INVH,United States,Real Estate,REIT—Residential
+824,Telefonaktiebolaget LM Ericsson,$20.89 B,ERIC.A,Sweden,Technology,Communication Equipment
+825,Tradeweb Markets Inc.,$20.89 B,TW,United States,Financials,Capital Markets
+826,Anglo Pacific Group plc,$20.88 B,APF,United Kingdom,Basic Materials,Coking Coal
+827,"Illumina, Inc.",$20.87 B,ILMN,United States,Healthcare,Diagnostics & Research
+828,Sirius XM Holdings Inc.,$20.86 B,SIRI,United States,Communication Services,Broadcasting
+829,Imperial Brands plc,$20.82 B,IMB,United Kingdom,Consumer Staples,Tobacco
+830,Kyocera Corp,$20.75 B,6971,Japan,Technology,Consumer Electronics
+831,Dover Corporation,$20.75 B,DOV,United States,Industrials,Specialty Industrial Machinery
+832,Daiwa House Industry Co Ltd,$20.75 B,1925,Japan,Real Estate,Real Estate—Development
+833,United Microelectronics Corporation,$20.74 B,2303,Taiwan,Technology,Semiconductors
+834,The Saudi British Bank,$20.74 B,1060,Saudi Arabia,Financials,Banks—Regional
+835,Teledyne Technologies Incorporated,$20.73 B,TDY,United States,Technology,Scientific & Technical Instruments
+836,"Rollins, Inc.",$20.71 B,ROL,United States,Consumer Discretionary,Personal Services
+837,CLP Holdings Ltd,$20.66 B,0002,Hong Kong,Utilities,Utilities—Regulated Electric
+838,Mitsubishi Heavy Industries Ltd,$20.61 B,7011,Japan,Industrials,Specialty Industrial Machinery
+839,UWM Holdings Corporation Class,$20.60 B,UWMC,United States,Financials,Mortgage Finance
+840,"Live Nation Entertainment, Inc.",$20.58 B,LYV,United States,Communication Services,Entertainment
+841,"VeriSign, Inc.",$20.54 B,VRSN,United States,Technology,Software—Infrastructure
+842,Geberit AG,$20.53 B,GEBN,Switzerland,Industrials,Building Products & Equipment
+843,"Ajinomoto Co., Inc.",$20.46 B,2802,Japan,Consumer Staples,Packaged Foods
+844,"Zoom Video Communications, Inc.",$20.45 B,ZM,United States,Communication Services,Telecom Services
+845,International Flavors & Fragrances Inc.,$20.42 B,IFF,United States,Basic Materials,Specialty Chemicals
+846,Techtronic Industries Company Ltd,$20.39 B,0669,Hong Kong,Industrials,Tools & Accessories
+847,Fortis Inc.,$20.39 B,FTS,Canada,Utilities,Utilities—Regulated Electric
+848,PPL Corporation,$20.39 B,PPL,United States,Utilities,Utilities—Regulated Electric
+849,"FLEETCOR Technologies, Inc.",$20.28 B,FLT,United States,Technology,Information Technology Services
+850,UPM-Kymmene Oyj,$20.26 B,UPM,Finland,Basic Materials,Paper & Paper Products
+851,"First Citizens BancShares, Inc.",$20.22 B,FCNCA,United States,Financials,Banks—Regional
+852,Tenaris SA,$20.14 B,TEN,Luxembourg,Energy,Oil & Gas Equipment & Services
+853,"Expedia Group, Inc.",$20.13 B,EXPE,United States,Consumer Discretionary,Travel Services
+854,Dollarama Inc.,$20.13 B,DOL,Canada,Consumer Staples,Discount Stores
+855,Zhangzhou Pientzehuang Pharmaceutical. Ltd,$20.07 B,600436,China,Healthcare,Drug Manufacturers—General
+856,"Brown & Brown, Inc.",$20.06 B,BRO,United States,Financials,Insurance Brokers
+857,CK Hutchison Holdings Ltd,$20.01 B,0001,Hong Kong,Industrials,Conglomerates
+858,PTC Inc.,$20.00 B,PTC,United States,Technology,Software—Application
+859,CRRC Corp Ltd,$19.98 B,601766,China,Industrials,Railroads
+860,"Ventas, Inc.",$19.98 B,VTR,United States,Real Estate,REIT—Healthcare Facilities
+861,NTT Data Corp,$19.89 B,9613,Japan,Technology,Information Technology Services
+862,Aeon Co. Ltd,$19.85 B,8267,Japan,Consumer Discretionary,Department Stores
+863,Atlantia SpA,"$19.83 B (Dec. 1, 2022)",ATL,Italy,Industrials,Infrastructure Operations
+864,"J.B. Hunt Transport Services, Inc.",$19.80 B,JBHT,United States,Industrials,Integrated Freight & Logistics
+865,Kellogg Company,$19.69 B,K,United States,Consumer Staples,Packaged Foods
+866,"Builders FirstSource, Inc.",$19.65 B,BLDR,United States,Industrials,Building Products & Equipment
+867,"Align Technology, Inc.",$19.62 B,ALGN,United States,Healthcare,Medical Devices
+868,Centrais Elétricas Brasileiras S.A. - Eletrobrás,$19.61 B,EBR,Brazil,Utilities,Utilities—Regulated Electric
+869,Baxter International Inc.,$19.60 B,BAX,United States,Healthcare,Medical Instruments & Supplies
+870,Targa Resources Corp.,$19.57 B,TRGP,United States,Energy,Oil & Gas Midstream
+871,Aier Eye Hospital Group Co. Ltd,$19.49 B,300015,China,Healthcare,Medical Care Facilities
+872,Yanzhou Coal Mining Company Ltd,$19.49 B,600188,China,Energy,Thermal Coal
+873,"Contura Energy, Inc.",$19.47 B,CTRA,United States,Energy,Thermal Coal
+874,Chongqing Zhifei Biological Products Co. Ltd,$19.46 B,300122,China,Healthcare,Biotechnology
+875,"Rivian Automotive, Inc.",$19.46 B,RIVN,United States,Consumer Discretionary,Auto Manufacturers
+876,Duke Realty Corporation,"$19.44 B (Sept. 1, 2022)",DRE,United States,Real Estate,REIT—Industrial
+877,Iron Mountain Incorporated,$19.43 B,IRM,United States,Real Estate,REIT—Specialty
+878,Ameren Corporation,$19.43 B,AEE,United States,Utilities,Utilities—Regulated Electric
+879,Nokia Corporation,$19.42 B,NOKIA.SEK,Finland,Technology,Communication Equipment
+880,"Tyson Foods, Inc.",$19.40 B,TSN,United States,Consumer Staples,Farm Products
+881,Kao Corp,$19.39 B,4452,Japan,Consumer Staples,Household & Personal Products
+882,Baoshan Iron & Steel Co. Ltd,$19.39 B,600019,China,Basic Materials,Steel
+883,KE Holdings Inc.,$19.38 B,BEKE,China,Real Estate,Real Estate Services
+884,"Hertz Global Holdings, Inc.","$19.38 B (Oct. 31, 2021)",HTZZ,United States,Industrials,Rental & Leasing Services
+885,"Darden Restaurants, Inc.",$19.37 B,DRI,United States,Consumer Discretionary,Restaurants
+886,Swiss Life Holding AG,$19.31 B,SLHN,Switzerland,Financials,Insurance—Diversified
+887,China United Network Communications Ltd,$19.28 B,600050,China,Communication Services,Telecom Services
+888,"Steel Dynamics, Inc.",$19.27 B,STLD,United States,Basic Materials,Steel
+889,Laboratory Corporation of America Holdings,$19.25 B,LH,United States,Healthcare,Diagnostics & Research
+890,Coterra Energy Inc.,"$19.24 B (July 1, 2023)",XCQ,United States,Energy,Oil & Gas E&P
+891,Asahi Group Holdings Ltd,$19.21 B,2502,Japan,Consumer Staples,Beverages—Brewers
+892,Genuine Parts Company,$19.09 B,GPC,United States,Consumer Discretionary,Specialty Retail
+893,Pembina Pipeline Corporation,$19.08 B,PPL,Canada,Energy,Oil & Gas Midstream
+894,Nippon Paint Holdings Co. Ltd,$19.01 B,4612,Japan,Basic Materials,Specialty Chemicals
+895,Sonova Holding AG,$19.01 B,SOON,Switzerland,Healthcare,Medical Instruments & Supplies
+896,Markel Corporation,$18.97 B,MKL,United States,Financials,Insurance—Property & Casualty
+897,China Unicom Hong Kong Ltd,$18.97 B,0762,Hong Kong,Communication Services,Telecom Services
+898,Aker BP ASA,$18.94 B,AKRBP,Norway,Energy,Oil & Gas E&P
+899,"Principal Financial Group, Inc.",$18.93 B,PFG,United States,Financials,Insurance—Diversified
+900,China CSSC Holdings Ltd,$18.92 B,600150,China,Industrials,Aerospace & Defense
+901,W. R. Berkley Corporation,$18.87 B,WRB,United States,Financials,Insurance—Property & Casualty
+902,Polski Koncern Naftowy ORLEN Spólka Akcyjna,$18.82 B,PKY1,Poland,Energy,Oil & Gas Refining & Marketing
+903,Advanced Info Service PCL,$18.77 B,ADVANC,Thailand,Communication Services,Telecom Services
+904,Power Corporation of Canada,$18.74 B,POW,Canada,Financials,Insurance—Life
+905,Cameco Corporation,$18.65 B,CCO,Canada,Energy,Uranium
+906,Kaspi Bank Joint Stock Company,$18.64 B,KSPI,Kazakhstan,Technology,Software—Infrastructure
+907,Wens Foodstuff Group Co. Ltd,$18.64 B,300498,China,Consumer Staples,Farm Products
+908,Legal & General Group plc,$18.56 B,LGEN,United Kingdom,Financials,Insurance—Life
+909,"Axon Enterprise, Inc.",$18.55 B,AXON,United States,Industrials,Aerospace & Defense
+910,EMS-CHEMIE HOLDING AG,$18.55 B,EMSN,Switzerland,Basic Materials,Specialty Chemicals
+911,Repsol SA,$18.54 B,REP,Spain,Energy,Oil & Gas Integrated
+912,"McCormick & Company, Incorporated",$18.51 B,MKC,United States,Consumer Staples,Packaged Foods
+913,Standard Bank Group Ltd,$18.51 B,SBK,South Africa,Financials,Banks—Regional
+914,"Expeditors International of Washington, Inc.",$18.51 B,EXPD,United States,Industrials,Integrated Freight & Logistics
+915,China Railway Group Ltd,$18.49 B,0390,Hong Kong,Industrials,Engineering & Construction
+916,"Cboe Global Markets, Inc.",$18.46 B,CBOE,United States,Financials,Financial Data & Stock Exchanges
+917,Huntington Bancshares Incorporated,$18.43 B,HBAN,United States,Financials,Banks—Regional
+918,China Overseas Land & Investment Ltd,$18.42 B,0688,Hong Kong,Real Estate,Real Estate—Development
+919,Talanx AG,$18.41 B,TLX,Germany,Financials,Insurance—Diversified
+920,BioMarin Pharmaceutical Inc.,$18.41 B,BMRN,United States,Healthcare,Biotechnology
+921,"CenterPoint Energy, Inc.",$18.39 B,CNP,United States,Utilities,Utilities—Regulated Gas
+922,Carlsberg A-S,$18.38 B,CARL.A,Denmark,Consumer Staples,Beverages—Brewers
+923,"Arca Continental, S.A.B. de C.V.",$18.37 B,AC,Mexico,Consumer Staples,Beverages—Non-Alcoholic
+924,Ryanair Holdings plc,"$18.18 B (Dec. 1, 2021)",RY4C,Ireland,Industrials,Airlines
+925,Waters Corporation,$18.17 B,WAT,United States,Healthcare,Diagnostics & Research
+926,"American Campus Communities, Inc.","$18.13 B (Aug. 1, 2022)",ACC,United States,Real Estate,REIT—Residential
+927,"The Cooper Companies, Inc.",$18.13 B,COO,United States,Healthcare,Medical Instruments & Supplies
+928,Kubota Corp,$18.11 B,6326,Japan,Industrials,Farm & Heavy Construction Machinery
+929,Fresenius SE & Co KGaA,$18.07 B,FRE,Germany,Healthcare,Medical Care Facilities
+930,TDK Corp,$18.05 B,6762,Japan,Technology,Electronic Components
+931,Mitsubishi Estate Co. Ltd,$18.03 B,8802,Japan,Real Estate,Real Estate—Diversified
+932,China Tower Corp Ltd,$18.03 B,0788,China,Communication Services,Telecom Services
+933,China International Capital Corp Ltd,$18.01 B,601995,China,Financials,Capital Markets
+934,CTBC Financial Holding Co. Ltd,$17.93 B,2891,Taiwan,Financials,Insurance—Life
+935,Mega Financial Holding Co. Ltd,$17.92 B,2886,Taiwan,Financials,Banks—Regional
+936,Telefônica Brasil SA,$17.91 B,VIV,Brazil,Communication Services,Telecom Services
+937,Bolloré SE,$17.89 B,BOL,France,Communication Services,Entertainment
+938,"First Solar, Inc.",$17.88 B,FSLR,United States,Technology,Solar
+939,Hydro One Limited,$17.88 B,H,Canada,Utilities,Utilities—Regulated Electric
+940,Check Point Software Technologies Ltd.,$17.88 B,CHKP,Israel,Technology,Software—Infrastructure
+941,Ball Corporation,$17.86 B,BALL,United States,Consumer Discretionary,Packaging & Containers
+942,Hormel Foods Corporation,$17.83 B,HRL,United States,Consumer Staples,Packaged Foods
+943,Atmos Energy Corporation,$17.80 B,ATO,United States,Utilities,Utilities—Regulated Gas
+944,"NetApp, Inc.",$17.78 B,NTAP,United States,Technology,Computer Hardware
+945,"ASE Technology Holding Co., Ltd.",$17.76 B,3711,Taiwan,Technology,Semiconductors
+946,Westlake Chemical Corporation,$17.71 B,WLK,United States,Basic Materials,Specialty Chemicals
+947,Inpex Corp,$17.70 B,1605,Japan,Energy,Oil & Gas E&P
+948,The Clorox Company,$17.67 B,CLX,United States,Consumer Staples,Household & Personal Products
+949,Regions Financial Corporation,$17.64 B,RF,United States,Financials,Banks—Regional
+950,Brookfield Property Partners L.P.,"$17.64 B (July 1, 2021)",BPY.UN,Bermuda,Real Estate,Real Estate Services
+951,Bank of Jiangsu Co. Ltd,$17.63 B,600919,China,Financials,Banks—Regional
+952,Warner Music Group Corp.,$17.63 B,WMG,United States,Communication Services,Entertainment
+953,Tata Motors Limited,"$17.61 B (Jan. 1, 2023)",TTM,India,Consumer Discretionary,Auto Manufacturers
+954,LPL Financial Holdings Inc.,$17.60 B,LPLA,United States,Financials,Capital Markets
+955,"Akamai Technologies, Inc.",$17.54 B,AKAM,United States,Technology,Software—Infrastructure
+956,Sungrow Power Supply Co. Ltd,$17.53 B,300274,China,Industrials,Electrical Equipment & Parts
+957,NIO Limited,$17.51 B,NIO,China,Consumer Discretionary,Auto Manufacturers
+958,Aristocrat Leisure Limited,$17.50 B,ALL,Australia,Communication Services,Electronic Gaming & Multimedia
+959,CK Asset Holdings Limited,$17.50 B,1113,Hong Kong,Real Estate,Real Estate—Development
+960,SABIC Agri-Nutrients Company,$17.49 B,2020,Saudi Arabia,Basic Materials,Agricultural Inputs
+961,"Hologic, Inc.",$17.49 B,HOLX,United States,Healthcare,Medical Instruments & Supplies
+962,"Yum China Holdings, Inc.",$17.49 B,YUMC,China,Consumer Discretionary,Restaurants
+963,Snam S.p.A.,$17.47 B,SRG,Italy,Utilities,Utilities—Regulated Gas
+964,"Beijing Kingsoft Office Software, Inc.",$17.47 B,688111,China,Technology,Software—Application
+965,Vertiv Holdings Co.,$17.47 B,VRT,United States,Industrials,Electrical Equipment & Parts
+966,Deckers Outdoor Corporation,$17.45 B,DECK,United States,Consumer Discretionary,Footwear & Accessories
+967,BeiGene Ltd,$17.44 B,6160,China,Healthcare,Biotechnology
+968,Essity AB,$17.43 B,ESSITY.A,Sweden,Consumer Staples,Household & Personal Products
+969,PTT Exploration & Production PCL,$17.43 B,PTTEP,Thailand,Energy,Oil & Gas E&P
+970,Olympus Corp,$17.43 B,7733,Japan,Healthcare,Medical Instruments & Supplies
+971,Guotai Junan Securities Co. Ltd,$17.42 B,601211,China,Financials,Capital Markets
+972,Erie Indemnity Company,$17.42 B,ERIE,United States,Financials,Insurance Brokers
+973,FactSet Research Systems Inc.,$17.40 B,FDS,United States,Financials,Financial Data & Stock Exchanges
+974,CMS Energy Corporation,$17.32 B,CMS,United States,Utilities,Utilities—Regulated Electric
+975,"Coca-Cola FEMSA, S.A.B. de C.V.",$17.26 B,KOFUBL,Mexico,Consumer Staples,Beverages—Non-Alcoholic
+976,WSP Global Inc.,$17.24 B,WSP,Canada,Industrials,Engineering & Construction
+977,Nomura Research Institute Ltd,$17.21 B,4307,Japan,Technology,Information Technology Services
+978,"Abiomed, Inc.","$17.18 B (Dec. 1, 2022)",ABMD,United States,Healthcare,Medical Devices
+979,Hubbell Incorporated,$17.16 B,HUBB,United States,Industrials,Electrical Equipment & Parts
+980,"Tyler Technologies, Inc.",$17.14 B,TYL,United States,Technology,Software—Application
+981,Brookfield Renewable Partners L.P.,$17.12 B,BEP.UN,Bermuda,Utilities,Utilities—Renewable
+982,"Sun Communities, Inc.",$17.11 B,SUI,United States,Real Estate,REIT—Residential
+983,"Nuance Communications, Inc.","$17.11 B (March 1, 2022)",NUAN,United States,Technology,Software—Application
+984,Northern Trust Corporation,$17.09 B,NTRS,United States,Financials,Asset Management
+985,UCB SA,$17.08 B,UCB,Belgium,Healthcare,Biotechnology
+986,China Coal Energy Co Ltd,$17.01 B,601898,China,Energy,Thermal Coal
+987,Nan Ya Plastics Corp,$16.96 B,1303,Taiwan,Basic Materials,Specialty Chemicals
+988,Will Semiconductor Co. Ltd,$16.91 B,603501,China,Technology,Semiconductors
+989,Santos Limited,$16.90 B,STO,Australia,Energy,Oil & Gas E&P
+990,Seagate Technology plc,$16.90 B,STX,Ireland,Technology,Computer Hardware
+991,Terna - Rete Elettrica Nazionale Società per Azioni,$16.87 B,TRN,Italy,Utilities,Utilities—Regulated Electric
+992,Weichai Power Co Ltd,$16.85 B,000338,China,Industrials,Specialty Industrial Machinery
+993,Omnicom Group Inc.,$16.84 B,OMC,United States,Communication Services,Advertising Agencies
+994,ZTO Express (Cayman) Inc.,$16.84 B,ZTO,China,Industrials,Integrated Freight & Logistics
+995,"Skyworks Solutions, Inc.",$16.83 B,SWKS,United States,Technology,Semiconductors
+996,Tatneft PJSC,$16.83 B,TATN,Russia,Energy,Oil & Gas Integrated
+997,WiseTech Global Limited,$16.80 B,WTC,Australia,Technology,Software—Application
+998,Shanghai International Port,$16.80 B,600018,China,Industrials,Marine Shipping
+999,"EPAM Systems, Inc.",$16.75 B,EPAM,United States,Technology,Information Technology Services
+1000,"Enphase Energy, Inc.",$16.75 B,ENPH,United States,Technology,Solar
