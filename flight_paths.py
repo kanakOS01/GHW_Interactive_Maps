@@ -17,7 +17,7 @@ def flight_paths_mapbox():
     st.dataframe(df, hide_index=True)
 
     map = folium.Map(
-        location=[35.0902, -105.7129], tiles="Stadia.AlidadeSmoothDark", zoom_start=4
+        location=[35.0902, -105.7129], tiles="Cartodb dark_matter", zoom_start=4
     )
 
     # iterate over the rows of the dataframe

@@ -1,6 +1,4 @@
 import streamlit as st
-import pandas as pd
-import plotly.express as px
 
 from state_city_map import state_city_scatter_mapbox, state_city_choropleth_mapbox
 from flight_paths import flight_paths_mapbox
@@ -12,10 +10,10 @@ st.set_page_config(layout="wide")
 st.title("Interactive Maps")
 
 SIDEBAR_DICT = {
-    "GLOBAL COMPANIES MAP": global_companies_mapbox,
     "STATE-CITY SCATTER MAP": state_city_scatter_mapbox,
     "STATE-CITY CHOROPLETH MAP": state_city_choropleth_mapbox,
-    "FLIGHT PATHS": flight_paths_mapbox
+    "FLIGHT PATHS": flight_paths_mapbox,
+    "GLOBAL COMPANIES MAP": global_companies_mapbox,
 }
 
 def main():

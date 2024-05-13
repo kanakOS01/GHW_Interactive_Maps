@@ -2,7 +2,7 @@ import time
 import pandas as pd
 import streamlit as st
 import streamlit.components.v1 as components
-from geopy.geocoders import Nominatim, Photon
+from geopy.geocoders import Nominatim
 import folium
 from folium.plugins import MarkerCluster
 
@@ -20,7 +20,7 @@ def global_companies_mapbox():
     geolocator = Nominatim(user_agent="my_user_kanak")
 
     # folium map
-    map = folium.Map(location=[0, 0], zoom_start=2, tiles="Stadia.AlidadeSmoothDark")
+    map = folium.Map(location=[0, 0], zoom_start=2, tiles="Cartodb dark_matter")
 
     # adding marker cluster to handle multiple markers
     marker_cluster = MarkerCluster().add_to(map)
